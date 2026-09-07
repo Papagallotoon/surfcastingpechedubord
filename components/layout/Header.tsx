@@ -25,13 +25,18 @@ export function Header() {
             </span>
           </Link>
 
-          <nav className="flex flex-wrap items-center gap-x-[clamp(14px,2.4vw,26px)] gap-y-2 font-mono text-[11px] uppercase tracking-[0.16em]">
+          <nav className="flex flex-wrap items-center gap-x-[clamp(10px,2vw,18px)] gap-y-2 font-mono text-[11px] uppercase tracking-[0.16em]">
             {NAV.map((item) => (
               <Link
                 key={item.label}
                 href={item.href}
-                className="py-1.5 text-brand-800 hover:text-brand-600"
+                className="rounded-sm border px-2.5 py-1.5 text-brand-800 transition-colors hover:text-brand-950"
+                style={{ borderColor: item.color }}
               >
+                <span
+                  className="mr-1.5 inline-block h-[7px] w-[7px] rounded-full align-middle"
+                  style={{ backgroundColor: item.color }}
+                />
                 {item.label}
               </Link>
             ))}

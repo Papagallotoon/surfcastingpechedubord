@@ -71,6 +71,7 @@ export const LATEST: Article[] = [...ARTICLES]
 export const NAV = CATEGORY_ORDER.map((key) => ({
   label: CATEGORIES[key]!.label,
   href: `/${key}`,
+  color: CATEGORIES[key]!.color,
 }));
 
 export const EDITORIAL = {
