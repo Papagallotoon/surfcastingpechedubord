@@ -36,9 +36,11 @@ body {
 
    Porté par le body en background-attachment: fixed : le motif ne défile pas,
    ce qui évite les coutures entre sections. */
+/* Camouflage teinté kaki (plutôt que le beige rosé du gabarit d'origine)
+   pour se différencier visuellement des autres sites du portfolio. */
 .camo-page {
-  background-color: #e6e1d1;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27640%27%20height=%27640%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.008%27%20numOctaves=%274%27%20seed=%2717%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.902%200.847%200.941%200.875%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.882%200.824%200.925%200.851%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.820%200.737%200.874%200.776%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27640%27%20height=%27640%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
+  background-color: #cbbf8a;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27640%27%20height=%27640%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.008%27%20numOctaves=%274%27%20seed=%2717%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.90%200.80%200.70%200.60%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.87%200.76%200.68%200.58%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.62%200.50%200.42%200.36%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27640%27%20height=%27640%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
   background-size: 640px 640px;
   background-attachment: fixed;
 }
@@ -47,8 +49,8 @@ body {
 .camo-zone {
   position: absolute;
   inset: 0;
-  background-color: #e6e1d1;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27700%27%20height=%27700%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.009%27%20numOctaves=%274%27%20seed=%2711%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.902%200.847%200.941%200.875%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.882%200.824%200.925%200.851%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.820%200.737%200.874%200.776%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27700%27%20height=%27700%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
+  background-color: #cbbf8a;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27700%27%20height=%27700%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.009%27%20numOctaves=%274%27%20seed=%2711%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.90%200.80%200.70%200.60%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.87%200.76%200.68%200.58%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.62%200.50%200.42%200.36%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27700%27%20height=%27700%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
   background-size: 700px 700px;
   opacity: 1;
   pointer-events: none;
