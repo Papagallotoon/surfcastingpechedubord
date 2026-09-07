@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400">
+  <circle cx="240" cy="200" r="175" fill="#f6e4d8"/>
+
+  <!-- scattered "night sky" dots -->
+  <circle cx="70" cy="70" r="3" fill="#e1a483" opacity="0.6"/>
+  <circle cx="410" cy="90" r="4" fill="#e1a483" opacity="0.5"/>
+  <circle cx="60" cy="300" r="3" fill="#e1a483" opacity="0.5"/>
+  <circle cx="420" cy="310" r="3" fill="#e1a483" opacity="0.6"/>
+  <circle cx="240" cy="55" r="3" fill="#e1a483" opacity="0.5"/>
+
+  <!-- house -->
+  <polygon points="128,188 240,108 352,188" fill="#a8502f"/>
+  <rect x="140" y="185" width="200" height="150" rx="14" fill="#ffffff" stroke="#edc7b0" stroke-width="2"/>
+
+  <!-- glowing window -->
+  <circle cx="185" cy="235" r="30" fill="#f6d386" opacity="0.55"/>
+  <rect x="163" y="213" width="44" height="44" rx="8" fill="#f2b544"/>
+
+  <!-- door -->
+  <rect x="222" y="255" width="42" height="80" rx="6" fill="#e1a483"/>
+  <circle cx="253" cy="296" r="3" fill="#a8502f"/>
+
+  <!-- second window -->
+  <rect x="285" y="213" width="34" height="34" rx="6" fill="#f6e4d8" stroke="#e1a483" stroke-width="2"/>
+
+  <!-- badge: shield (home security) -->
+  <circle cx="92" cy="140" r="30" fill="#ffffff" stroke="#edc7b0" stroke-width="2"/>
+  <path d="M92 126l9 4v8c0 6-4 10-9 12-5-2-9-6-9-12v-8l9-4Z" fill="none" stroke="#a8502f" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- badge: water droplet -->
+  <circle cx="398" cy="150" r="30" fill="#ffffff" stroke="#edc7b0" stroke-width="2"/>
+  <path d="M398 136s8 9 8 15a8 8 0 1 1-16 0c0-6 8-15 8-15Z" fill="none" stroke="#a8502f" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- badge: power/backup -->
+  <circle cx="380" cy="290" r="28" fill="#ffffff" stroke="#edc7b0" stroke-width="2"/>
+  <path d="M383 277l-11 15h7l-1 10 11-15h-7l1-10Z" fill="none" stroke="#a8502f" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- ground line -->
+  <line x1="90" y1="335" x2="390" y2="335" stroke="#edc7b0" stroke-width="2" stroke-linecap="round"/>
+</svg>
