@@ -184,7 +184,7 @@ export default function HomePage() {
                 {EDITORIAL.quizCard.body}
               </p>
               <Link
-                href="/montages/montages-terminal-tackle-surfcasting"
+                href="/assessment"
                 className="clip-bevel mt-4 flex min-h-[48px] items-center justify-center bg-brand-600 px-5 py-3.5 font-condensed text-[17px] font-extrabold uppercase tracking-[0.06em] text-white hover:bg-brand-600/85"
               >
                 {EDITORIAL.quizCard.cta}

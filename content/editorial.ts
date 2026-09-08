@@ -81,16 +81,15 @@ export const EDITORIAL = {
   latestTitle: "Derniers articles",
   latestAllLabel: "Tous les articles →",
   latestAllHref: "/library",
-  // Pas de quiz/évaluation sur ce site (contrairement au moteur d'origine
-  // Sécurité Maison) : le modèle ici est purement comparatif, sans produit
-  // unique à recommander. Ce bloc met plutôt en avant le guide montages,
-  // souvent le premier besoin d'un pêcheur qui débute le surfcasting.
+  // Quiz "quel équipement avez-vous déjà" (voir content/equipment-quiz.ts) :
+  // pas de score unique ni de produit-funnel, deux pourcentages (minimum
+  // couvert / haut de gamme couvert) calculés depuis les 5 catégories.
   quizCard: {
-    eyebrow: "Pour bien démarrer",
-    title: "Le petit matériel qu'on rachète le plus souvent",
-    body: "Bas de ligne, émerillons, plombs, hameçons : notre comparatif terminal tackle pour reconstituer une boîte complète.",
-    cta: "Voir le comparatif",
-    note: "Produits vérifiés en direct sur Amazon.fr",
+    eyebrow: "Testez votre équipement",
+    title: "Quel matériel de surfcasting vous manque ?",
+    body: "7 questions sur votre équipement actuel et votre façon de pêcher (roche, plage, ponton), pour savoir où investir en priorité.",
+    cta: "Faire le test",
+    note: "Aucune inscription, résultat immédiat",
   },
   /** Emplacement display : laissé vide tant qu'aucune régie n'est branchée. */
   showAdSlots: false,

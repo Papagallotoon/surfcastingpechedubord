@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Assessment } from "@/components/assessment/Assessment";
+import { EquipmentQuiz } from "@/components/quiz/EquipmentQuiz";
 
 export const metadata: Metadata = {
-  title: "Indice de sécurité de votre maison",
+  title: "Quel équipement de surfcasting vous manque ?",
   description:
-    "Sept questions, un indice sur 0–100 comparé à 41 200 maisons, et les trois correctifs qui le font le plus bouger par euro dépensé.",
+    "7 questions sur votre équipement actuel et votre façon de pêcher, pour savoir où vous en êtes et quoi regarder en priorité.",
 };
 
 export default function AssessmentPage() {
-  return <Assessment />;
+  return <EquipmentQuiz />;
 }

@@ -276,7 +276,7 @@ export function ArticleBody({ blocks, categoryColor }: { blocks: Block[]; catego
               >
                 <div className="min-w-0 flex-1 basis-[280px]">
                   <div className="font-mono text-[10px] uppercase tracking-ops text-brand-600">
-                    Évaluation gratuite
+                    Testez votre équipement
                   </div>
                   <h3 className="mt-2.5 font-condensed text-[25px] font-extrabold uppercase leading-[1.04] text-brand-950">
                     {block.title}
@@ -289,7 +289,7 @@ export function ArticleBody({ blocks, categoryColor }: { blocks: Block[]; catego
                   href="/assessment"
                   className="clip-bevel flex min-h-[48px] items-center bg-brand-600 px-6 py-3.5 font-condensed text-[17px] font-extrabold uppercase tracking-[0.06em] text-white hover:bg-brand-600/85"
                 >
-                  Évaluer ma maison
+                  Faire le test
                 </Link>
               </div>
             );
