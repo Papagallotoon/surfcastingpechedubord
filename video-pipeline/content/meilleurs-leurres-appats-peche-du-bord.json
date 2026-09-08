@@ -1,0 +1,50 @@
+{
+  "slug": "meilleurs-leurres-appats-peche-du-bord",
+  "title": "Les 5 meilleurs leurres et appâts pour la pêche du bord",
+  "excerpt": "Du Rapala X-Rap Saltwater plébiscité par plus de 1 600 avis à la boîte de 350 vers artificiels, notre sélection de leurres et appâts.",
+  "hookSubject": "les meilleurs leurres et appâts pour la pêche du bord",
+  "format": "comparatif",
+  "image": "/images/products/rapala-x-rap-saltwater.jpg",
+  "products": [
+    {
+      "name": "Rapala X-Rap Saltwater",
+      "price": "15,95 €",
+      "pros": ["Marque Rapala, référence mondiale", "Plus de 1 600 avis clients"],
+      "image": "/images/products/rapala-x-rap-saltwater.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01JK7PS6E?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "TSURI Pack 3 Leurres Pêche en Mer",
+      "price": "19,99 €",
+      "pros": ["Trois types de leurres dans un pack", "Spécial bar, polyvalent"],
+      "image": "/images/products/tsuri-pack-3-leurres.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D5CYWK59?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "HOTUT Leurres de Pêche Souples 5 pièces",
+      "price": "10,99 €",
+      "pros": ["Pré-montés sur tête plombée", "Prix accessible"],
+      "image": "/images/products/hotut-leurres-5-pieces.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D83X2GYS?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "87 Pièces Leurre Souple Barracuda, Kit Complet",
+      "price": "14,99 €",
+      "pros": ["87 pièces pour moins de 15 euros", "Plusieurs tailles incluses"],
+      "image": "/images/products/barracuda-87-pieces-leurres.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GDX497HT?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "LIULINY 350 Pièces Ver Terre Artificiel",
+      "price": "11,99 €",
+      "pros": ["350 pièces pour un prix très accessible", "Boîte de rangement incluse"],
+      "image": "/images/products/liuliny-vers-artificiels.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G1336843?tag=surfpdb-21",
+      "category": "leurres"
+    }
+  ]
+}

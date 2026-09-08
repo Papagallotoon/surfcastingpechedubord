@@ -36,21 +36,23 @@ body {
 
    Porté par le body en background-attachment: fixed : le motif ne défile pas,
    ce qui évite les coutures entre sections. */
-/* Camouflage teinté kaki (plutôt que le beige rosé du gabarit d'origine)
-   pour se différencier visuellement des autres sites du portfolio. */
+/* Camouflage noir/blanc/gris (repris des filets de camouflage classiques)
+   plutôt que le kaki : R=G=B sur chaque palier pour un gris neutre sans
+   dominante chaude. Paliers hauts pour que le site reste clair malgré
+   le camouflage sombre. */
 .camo-page {
-  background-color: #cbbf8a;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27640%27%20height=%27640%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.008%27%20numOctaves=%274%27%20seed=%2717%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.90%200.80%200.70%200.60%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.87%200.76%200.68%200.58%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.62%200.50%200.42%200.36%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27640%27%20height=%27640%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
+  background-color: #f2f2f0;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27640%27%20height=%27640%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.008%27%20numOctaves=%274%27%20seed=%2717%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.97%200.88%200.78%200.64%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.97%200.88%200.78%200.64%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.97%200.88%200.78%200.64%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27640%27%20height=%27640%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
   background-size: 640px 640px;
   background-attachment: fixed;
 }
 
-/* Ancien camouflage plein cadre du tunnel de quiz, en version claire. */
+/* Ancien camouflage plein cadre du tunnel de quiz, même palette N&B/gris. */
 .camo-zone {
   position: absolute;
   inset: 0;
-  background-color: #cbbf8a;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27700%27%20height=%27700%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.009%27%20numOctaves=%274%27%20seed=%2711%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.90%200.80%200.70%200.60%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.87%200.76%200.68%200.58%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.62%200.50%200.42%200.36%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27700%27%20height=%27700%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
+  background-color: #f2f2f0;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27700%27%20height=%27700%27%3E%3Cfilter%20id=%27c%27%3E%3CfeTurbulence%20type=%27fractalNoise%27%20baseFrequency=%270.009%27%20numOctaves=%274%27%20seed=%2711%27/%3E%3CfeColorMatrix%20type=%27saturate%27%20values=%270%27/%3E%3CfeComponentTransfer%3E%3CfeFuncR%20type=%27discrete%27%20tableValues=%270.97%200.88%200.78%200.64%27/%3E%3CfeFuncG%20type=%27discrete%27%20tableValues=%270.97%200.88%200.78%200.64%27/%3E%3CfeFuncB%20type=%27discrete%27%20tableValues=%270.97%200.88%200.78%200.64%27/%3E%3CfeFuncA%20type=%27discrete%27%20tableValues=%271%27/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect%20width=%27700%27%20height=%27700%27%20filter=%27url%28%23c%29%27/%3E%3C/svg%3E");
   background-size: 700px 700px;
   opacity: 1;
   pointer-events: none;
@@ -63,9 +65,9 @@ body {
   inset: 0;
   background: linear-gradient(
     180deg,
-    rgba(230, 225, 209, 0.1) 0%,
-    rgba(230, 225, 209, 0.34) 40%,
-    rgba(230, 225, 209, 0.86) 92%,
+    rgba(242, 242, 240, 0.1) 0%,
+    rgba(242, 242, 240, 0.34) 40%,
+    rgba(242, 242, 240, 0.86) 92%,
     rgb(var(--brand-50)) 100%
   );
   pointer-events: none;

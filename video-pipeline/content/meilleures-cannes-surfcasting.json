@@ -1,0 +1,50 @@
+{
+  "slug": "meilleures-cannes-surfcasting",
+  "title": "Les 5 meilleures cannes à surfcasting pour la pêche du bord",
+  "excerpt": "Du premier prix à 24 € au blank carbone PENN à 130 €, notre sélection de cannes à surfcasting pour lancer loin depuis la plage.",
+  "hookSubject": "les meilleures cannes à surfcasting pour pêcher depuis la plage",
+  "format": "comparatif",
+  "image": "/images/products/penn-wrath-ii-canne-surfcast.jpg",
+  "products": [
+    {
+      "name": "PENN Wrath II Canne à pêche Surfcast",
+      "price": "129,99 €",
+      "pros": ["Blank solide et réactif, bon rapport qualité-prix pour la marque", "Composants de qualité"],
+      "image": "/images/products/penn-wrath-ii-canne-surfcast.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CCDQKQJH?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Shimano Sonora Surf 4,20 m",
+      "price": "65,00 €",
+      "pros": ["Marque de référence en matériel de pêche", "Longueur 4,20 m polyvalente"],
+      "image": "/images/products/shimano-sonora-surf.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07Z1R63Y1?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Mitchell Adventure 2 Canne à pêche Surf",
+      "price": "24,49 €",
+      "pros": ["Prix d'entrée très accessible", "Composite de verre durable"],
+      "image": "/images/products/mitchell-adventure-2-surf.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09TTPSLZN?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Goture Ensemble de Pêche Télescopique Complet",
+      "price": "59,49 €",
+      "pros": ["Ensemble complet canne, moulinet et accessoires", "Format télescopique pratique"],
+      "image": "/images/products/goture-ensemble-telescopique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FG79GMQP?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Canne de Plage Ultimate Beachforce 100-250g",
+      "price": "41,95 €",
+      "pros": ["Puissance de lancer élevée", "Prix contenu pour cette gamme"],
+      "image": "/images/products/ultimate-beachforce-canne-plage.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0H4ZN9NTC?tag=surfpdb-21",
+      "category": "cannes"
+    }
+  ]
+}

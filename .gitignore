@@ -5,6 +5,7 @@ out
 .vercel
 *.log
 tsconfig.tsbuildinfo
+video-pipeline/tmp
 
 # OpenNext
 .open-next

@@ -1,0 +1,50 @@
+{
+  "slug": "meilleurs-moulinets-surfcasting",
+  "title": "Les 5 meilleurs moulinets pour le surfcasting",
+  "excerpt": "PENN, Daiwa, Sakura : notre sélection de moulinets de surfcasting entre 33 € et 144 €, du premier prix au longue-distance de marque.",
+  "hookSubject": "les meilleurs moulinets pour le surfcasting",
+  "format": "comparatif",
+  "image": "/images/products/penn-rival-moulinet.jpg",
+  "products": [
+    {
+      "name": "PENN Rival Moulinet Spinning Long Cast",
+      "price": "97,03 €",
+      "pros": ["Conçu spécifiquement pour le long lancer", "Marque PENN reconnue"],
+      "image": "/images/products/penn-rival-moulinet.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08N64912R?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "PENN Surfblaster III Moulinet Spinning Long Cast",
+      "price": "144,00 €",
+      "pros": ["Gamme supérieure dédiée au long lancer", "Robustesse pour usage intensif"],
+      "image": "/images/products/penn-surfblaster-iii-moulinet.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08MNZGVVW?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Sakura Alendo 201 Moulinet Baitcasting",
+      "price": "61,90 €",
+      "pros": ["Livré avec tresse incluse", "Récupération rapide"],
+      "image": "/images/products/sakura-alendo-moulinet.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DJMBQ3L4?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Daiwa Moulinet Leurres Crossfire 26 LT 5000",
+      "price": "44,90 €",
+      "pros": ["Marque Daiwa reconnue", "Léger"],
+      "image": "/images/products/daiwa-crossfire-moulinet.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GPY4VG5R?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Trabucco Moulinet Oceanic Surf 8000C",
+      "price": "33,61 €",
+      "pros": ["Prix le plus accessible du comparatif", "Marque spécialisée pêche en mer"],
+      "image": "/images/products/trabucco-oceanic-surf-8000c.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01CPP0R96?tag=surfpdb-21",
+      "category": "moulinets"
+    }
+  ]
+}

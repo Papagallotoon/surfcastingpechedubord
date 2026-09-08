@@ -1,0 +1,50 @@
+{
+  "slug": "montages-terminal-tackle-surfcasting",
+  "title": "Les 5 meilleurs kits de montages et terminal tackle pour la pêche en mer",
+  "excerpt": "Bas de ligne pré-noués, émerillons, plombs et hameçons : le petit matériel de surfcasting qui se perd et se rachète le plus souvent.",
+  "hookSubject": "le petit matériel qu'on rachète le plus en surfcasting",
+  "format": "comparatif",
+  "image": "/images/products/bas-de-ligne-lot-de-6.jpg",
+  "products": [
+    {
+      "name": "Bas de Ligne Pêche en Mer Lot de 6, Montages Pré-noués",
+      "price": "10,99 €",
+      "pros": ["Montages pré-noués, aucun nœud à faire", "Deux tailles d'hameçon incluses"],
+      "image": "/images/products/bas-de-ligne-lot-de-6.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GXJ9CJGV?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Realure 160 Pièces Kit Émerillons pour Surfcasting",
+      "price": "16,99 €",
+      "pros": ["160 pièces dans une seule boîte", "Convient eau salée et eau douce"],
+      "image": "/images/products/realure-kit-emerillons.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BTPJ8L8M?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Annyswit 5 Pièces Flapper Rig Pêche en Mer",
+      "price": "10,99 €",
+      "pros": ["Double hameçon pour deux chances de touche", "Mousqueton rapide"],
+      "image": "/images/products/annyswit-flapper-rig.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GSV93GHG?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Angel Berger Lot de 5 Plombs de Surf 100g",
+      "price": "9,99 €",
+      "pros": ["Prix le plus bas du comparatif", "Format polyvalent"],
+      "image": "/images/products/angel-berger-plombs-surf.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DS68433W?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "9KM DWLIFE Lot de 300 Hameçons, 10 Tailles",
+      "price": "10,99 €",
+      "pros": ["300 hameçons pour un prix équivalent aux petits lots", "10 tailles différentes"],
+      "image": "/images/products/9km-dwlife-hamecons.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FYPPF9W3?tag=surfpdb-21",
+      "category": "montages"
+    }
+  ]
+}

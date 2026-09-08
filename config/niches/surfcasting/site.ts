@@ -14,16 +14,17 @@ export const SITE: SiteConfig = {
   locale: "fr",
   domain: "surfcastingpechedubord.vercel.app",
   analytics: { gaMeasurementId: "" },
-  // Palette plage/océan : sable et bleu profond, sans reprendre le kaki
-  // turquoise de Sécurité Maison ni la palette verte de Marius Dumas Home.
+  // Palette camouflage noir/blanc/gris (filet de camo) + bleu profond en
+  // accent, sans reprendre le kaki turquoise de Sécurité Maison ni la
+  // palette verte de Marius Dumas Home. Paliers clairs pour rester lisible.
   branding: {
     headingFont: "sans-bold",
     logoLetter: "S",
     colors: {
-      "50": "#eae4c9",
-      "100": "#ded5ab",
-      "200": "#c7ba82",
-      "300": "#a99b5f",
+      "50": "#f7f7f6",
+      "100": "#eeeeec",
+      "200": "#d9d9d5",
+      "300": "#a3a3a0",
       "400": "#6f8a97",
       "500": "#3d6470",
       "600": "#144d63",
