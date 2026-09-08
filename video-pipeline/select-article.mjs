@@ -11,9 +11,15 @@ export function saveState(state) {
   fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 2) + "\n");
 }
 
+// Always moves the slug to the *end* of usedSlugs, even on a repeat — this
+// is what makes the rotation fallback in selectNextArticle() work: the
+// least-recently-published topic is always usedSlugs[0], so cycling back
+// through the catalog never repeats a topic until every other one has had
+// its turn again.
 export function markUsed(slug) {
   const state = loadState();
-  if (!state.usedSlugs.includes(slug)) state.usedSlugs.push(slug);
+  state.usedSlugs = state.usedSlugs.filter((s) => s !== slug);
+  state.usedSlugs.push(slug);
   saveState(state);
 }
 
@@ -34,18 +40,11 @@ export function loadArticleBySlug(slug) {
   return { slug, article };
 }
 
-// Child-safety topics (bébé-proofing) are outperforming the rest of the
-// catalog — bump them ahead of the regular alphabetical queue instead of
-// waiting for their turn. Remove a slug here once it's been published;
-// anything not listed just falls back to the normal order below.
-const PRIORITY_SLUGS = [
-  "top-5-protections-angles-meubles-enfant",
-  "top-5-verrous-securite-enfant-placards",
-];
-
-// Picks the next article that hasn't been turned into a video yet —
-// priority slugs first (see above), then alphabetical order. Returns null
-// once every article has been used at least once.
+// Picks the next article that hasn't been turned into a video yet, in
+// alphabetical order. If every topic has already been published at least
+// once, rotates back through them oldest-first instead of stopping — per
+// the "3 vidéos/jour, no matter what" standing rule, running out of fresh
+// topics is not a reason to skip a day.
 export function selectNextArticle() {
   const state = loadState();
   const files = fs
@@ -63,16 +62,20 @@ export function selectNextArticle() {
     return { slug, article };
   };
 
-  for (const slug of PRIORITY_SLUGS) {
+  for (const file of files) {
+    const slug = file.replace(/\.json$/, "");
     const picked = bySlug(slug);
     if (picked) return picked;
   }
 
-  for (const file of files) {
-    const slug = file.replace(/\.json$/, "");
-    if (PRIORITY_SLUGS.includes(slug)) continue; // already tried above
-    const picked = bySlug(slug);
+  // Every topic has been published at least once — rotate back through
+  // already-published topics instead, oldest-first (usedSlugs[0]).
+  // markUsed() always moves a slug to the end of usedSlugs, so this
+  // naturally cycles the whole catalog before any single topic repeats.
+  for (const slug of state.usedSlugs) {
+    const picked = loadArticleBySlug(slug);
     if (picked) return picked;
   }
-  return null;
+
+  return null; // truly no article anywhere has a real-priced product
 }

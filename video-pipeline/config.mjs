@@ -40,6 +40,3 @@ export const SITUATION_IMAGES = {};
 export const VIDEO_WIDTH = 1080;
 export const VIDEO_HEIGHT = 1920;
 export const FPS = 30;
-
-export const OPENAI_API_KEY = process.env.OPENAI_API_KEY || null;
-export const OPENAI_IMAGE_MODEL = "gpt-image-1.5";
