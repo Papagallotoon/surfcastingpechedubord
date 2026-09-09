@@ -8,6 +8,7 @@
   "products": [
     {
       "name": "PENN Rival Moulinet Spinning Long Cast",
+      "speechName": "ce moulinet conçu pour le long lancer",
       "price": "97,03 €",
       "pros": ["Conçu spécifiquement pour le long lancer", "Marque PENN reconnue"],
       "image": "/images/products/penn-rival-moulinet.jpg",
@@ -16,6 +17,7 @@
     },
     {
       "name": "PENN Surfblaster III Moulinet Spinning Long Cast",
+      "speechName": "ce moulinet haut de gamme pour le long lancer",
       "price": "144,00 €",
       "pros": ["Gamme supérieure dédiée au long lancer", "Robustesse pour usage intensif"],
       "image": "/images/products/penn-surfblaster-iii-moulinet.jpg",
@@ -24,6 +26,7 @@
     },
     {
       "name": "Sakura Alendo 201 Moulinet Baitcasting",
+      "speechName": "ce moulinet livré avec la tresse incluse",
       "price": "61,90 €",
       "pros": ["Livré avec tresse incluse", "Récupération rapide"],
       "image": "/images/products/sakura-alendo-moulinet.jpg",
@@ -32,6 +35,7 @@
     },
     {
       "name": "Daiwa Moulinet Leurres Crossfire 26 LT 5000",
+      "speechName": "ce moulinet léger pour leurres",
       "price": "44,90 €",
       "pros": ["Marque Daiwa reconnue", "Léger"],
       "image": "/images/products/daiwa-crossfire-moulinet.jpg",
@@ -40,6 +44,7 @@
     },
     {
       "name": "Trabucco Moulinet Oceanic Surf 8000C",
+      "speechName": "ce moulinet spécial pêche en mer",
       "price": "33,61 €",
       "pros": ["Prix le plus accessible du comparatif", "Marque spécialisée pêche en mer"],
       "image": "/images/products/trabucco-oceanic-surf-8000c.jpg",

@@ -25,12 +25,14 @@ export const TITLE_CARD_PATH = path.join(__dirname, "assets", "title-card.png");
 // config/niches/surfcasting/site.ts), distincte du bleu froid de Sécurité
 // Maison et du grade utilisé sur Marius Concept.
 export const COLOR_GRADE = "eq=saturation=1.08:contrast=1.04,colorbalance=rm=0.04:gm=0.02:bh=-0.04";
-// Voix masculine, timbre plus mûr (Henri) que les voix "jeunes" par défaut,
-// avec un débit légèrement relevé pour rester dynamique malgré le timbre
-// grave — demande explicite : "un homme avec une voix d'ancien mais
-// dynamique".
-export const TTS_VOICE = "fr-FR-HenriNeural";
-export const TTS_PROSODY = { rate: "+8%", pitch: "-2%" };
+// Voix masculine (demande explicite : "un homme avec une voix d'ancien mais
+// dynamique"). HenriNeural (single-locale) sonnait trop robotique — passé à
+// la génération "Multilingual", nettement plus naturelle (même famille de
+// voix que Vivienne sur les 2 autres chaînes, voir leur config.mjs). Débit
+// ramené à un niveau proche du naturel : un rate élevé donnait justement
+// cet effet "voix robotisée" que l'utilisateur a signalé.
+export const TTS_VOICE = "fr-FR-RemyMultilingualNeural";
+export const TTS_PROSODY = { rate: "+2%", pitch: "-2%" };
 
 // Pas de photo "en situation" par catégorie pour l'instant (contrairement à
 // securite-sas) — build-script.mjs saute cette étape proprement pour toute

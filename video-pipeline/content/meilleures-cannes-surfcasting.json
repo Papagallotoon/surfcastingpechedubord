@@ -2,12 +2,13 @@
   "slug": "meilleures-cannes-surfcasting",
   "title": "Les 5 meilleures cannes à surfcasting pour la pêche du bord",
   "excerpt": "Du premier prix à 24 € au blank carbone PENN à 130 €, notre sélection de cannes à surfcasting pour lancer loin depuis la plage.",
-  "hookSubject": "les meilleures cannes à surfcasting pour pêcher depuis la plage",
+  "hookSubject": "les meilleures cannes à surfcasting",
   "format": "comparatif",
   "image": "/images/products/penn-wrath-ii-canne-surfcast.jpg",
   "products": [
     {
       "name": "PENN Wrath II Canne à pêche Surfcast",
+      "speechName": "cette canne à pêche pour le surfcasting",
       "price": "129,99 €",
       "pros": ["Blank solide et réactif, bon rapport qualité-prix pour la marque", "Composants de qualité"],
       "image": "/images/products/penn-wrath-ii-canne-surfcast.jpg",
@@ -16,6 +17,7 @@
     },
     {
       "name": "Shimano Sonora Surf 4,20 m",
+      "speechName": "cette canne à pêche de quatre mètres vingt",
       "price": "65,00 €",
       "pros": ["Marque de référence en matériel de pêche", "Longueur 4,20 m polyvalente"],
       "image": "/images/products/shimano-sonora-surf.jpg",
@@ -24,6 +26,7 @@
     },
     {
       "name": "Mitchell Adventure 2 Canne à pêche Surf",
+      "speechName": "cette canne à pêche d'entrée de gamme",
       "price": "24,49 €",
       "pros": ["Prix d'entrée très accessible", "Composite de verre durable"],
       "image": "/images/products/mitchell-adventure-2-surf.jpg",
@@ -32,6 +35,7 @@
     },
     {
       "name": "Goture Ensemble de Pêche Télescopique Complet",
+      "speechName": "cet ensemble de pêche télescopique complet",
       "price": "59,49 €",
       "pros": ["Ensemble complet canne, moulinet et accessoires", "Format télescopique pratique"],
       "image": "/images/products/goture-ensemble-telescopique.jpg",
@@ -40,6 +44,7 @@
     },
     {
       "name": "Canne de Plage Ultimate Beachforce 100-250g",
+      "speechName": "cette canne de plage puissante",
       "price": "41,95 €",
       "pros": ["Puissance de lancer élevée", "Prix contenu pour cette gamme"],
       "image": "/images/products/ultimate-beachforce-canne-plage.jpg",

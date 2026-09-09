@@ -1,1 +1,0 @@
-drawbox=x=(iw-260)/2:y=780:w=260:h=260:color=0x144D63:t=fill,drawtext=fontfile=assets/arialbd.ttf:text='S':fontcolor=white:fontsize=180:x=(iw-text_w)/2:y=810,drawtext=fontfile=assets/arialbd.ttf:text='SURFCASTING':fontcolor=0x141D22:fontsize=72:x=(iw-text_w)/2:y=1120,drawtext=fontfile=assets/arialbd.ttf:text='PECHE DU BORD':fontcolor=0x141D22:fontsize=72:x=(iw-text_w)/2:y=1210

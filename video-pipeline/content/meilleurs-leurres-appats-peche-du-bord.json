@@ -8,6 +8,7 @@
   "products": [
     {
       "name": "Rapala X-Rap Saltwater",
+      "speechName": "ce leurre plébiscité par plus de mille six cents avis clients",
       "price": "15,95 €",
       "pros": ["Marque Rapala, référence mondiale", "Plus de 1 600 avis clients"],
       "image": "/images/products/rapala-x-rap-saltwater.jpg",
@@ -16,6 +17,7 @@
     },
     {
       "name": "TSURI Pack 3 Leurres Pêche en Mer",
+      "speechName": "ce pack de trois leurres pour la pêche en mer",
       "price": "19,99 €",
       "pros": ["Trois types de leurres dans un pack", "Spécial bar, polyvalent"],
       "image": "/images/products/tsuri-pack-3-leurres.jpg",
@@ -24,6 +26,7 @@
     },
     {
       "name": "HOTUT Leurres de Pêche Souples 5 pièces",
+      "speechName": "ces leurres souples, cinq pièces",
       "price": "10,99 €",
       "pros": ["Pré-montés sur tête plombée", "Prix accessible"],
       "image": "/images/products/hotut-leurres-5-pieces.jpg",
@@ -32,6 +35,7 @@
     },
     {
       "name": "87 Pièces Leurre Souple Barracuda, Kit Complet",
+      "speechName": "ce kit complet de quatre-vingt-sept leurres souples",
       "price": "14,99 €",
       "pros": ["87 pièces pour moins de 15 euros", "Plusieurs tailles incluses"],
       "image": "/images/products/barracuda-87-pieces-leurres.jpg",
@@ -40,6 +44,7 @@
     },
     {
       "name": "LIULINY 350 Pièces Ver Terre Artificiel",
+      "speechName": "cette boîte de trois cent cinquante vers de terre artificiels",
       "price": "11,99 €",
       "pros": ["350 pièces pour un prix très accessible", "Boîte de rangement incluse"],
       "image": "/images/products/liuliny-vers-artificiels.jpg",

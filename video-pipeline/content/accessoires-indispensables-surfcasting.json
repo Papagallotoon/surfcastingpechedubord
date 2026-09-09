@@ -8,6 +8,7 @@
   "products": [
     {
       "name": "Reggi Cannes Piquet Porte-canne Surfcasting de Plage",
+      "speechName": "ce piquet porte-canne pour la plage",
       "price": "13,91 €",
       "pros": ["Trois longueurs disponibles", "Pointe adaptée au sable"],
       "image": "/images/products/reggi-piquet-porte-canne.jpg",
@@ -16,6 +17,7 @@
     },
     {
       "name": "Épuisette de Pêche Pliable Télescopique",
+      "speechName": "cette épuisette pliable et télescopique",
       "price": "15,99 €",
       "pros": ["Manche extensible jusqu'à 205 cm", "Pliable, facile à transporter"],
       "image": "/images/products/wangdefu-epuisette-telescopique.jpg",
@@ -24,6 +26,7 @@
     },
     {
       "name": "MATEIN Sac de Pêche avec Porte-Canne, Étanche",
+      "speechName": "ce sac de pêche étanche avec porte-canne",
       "price": "45,99 €",
       "pros": ["Plus de 1 200 avis clients", "Étanche avec compartiment isotherme"],
       "image": "/images/products/matein-sac-peche.jpg",
@@ -32,6 +35,7 @@
     },
     {
       "name": "Blukar Lampe Frontale Rechargeable 2000 Lumens",
+      "speechName": "cette lampe frontale rechargeable",
       "price": "12,99 €",
       "pros": ["Plus de 13 000 avis clients", "Étanche IPX5, 30h d'autonomie"],
       "image": "/images/products/blukar-lampe-frontale.jpg",
@@ -40,6 +44,7 @@
     },
     {
       "name": "FLISSA Pince de Pêche Multifonction 19 cm",
+      "speechName": "cette pince de pêche multifonction",
       "price": "21,99 €",
       "pros": ["Badge Choix d'Amazon", "6 fonctions en un seul outil"],
       "image": "/images/products/flissa-pince-peche.jpg",

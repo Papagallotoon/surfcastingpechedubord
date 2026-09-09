@@ -8,6 +8,7 @@
   "products": [
     {
       "name": "Bas de Ligne Pêche en Mer Lot de 6, Montages Pré-noués",
+      "speechName": "ce lot de six bas de ligne pré-noués",
       "price": "10,99 €",
       "pros": ["Montages pré-noués, aucun nœud à faire", "Deux tailles d'hameçon incluses"],
       "image": "/images/products/bas-de-ligne-lot-de-6.jpg",
@@ -16,6 +17,7 @@
     },
     {
       "name": "Realure 160 Pièces Kit Émerillons pour Surfcasting",
+      "speechName": "ce kit de cent soixante émerillons",
       "price": "16,99 €",
       "pros": ["160 pièces dans une seule boîte", "Convient eau salée et eau douce"],
       "image": "/images/products/realure-kit-emerillons.jpg",
@@ -24,6 +26,7 @@
     },
     {
       "name": "Annyswit 5 Pièces Flapper Rig Pêche en Mer",
+      "speechName": "ce lot de cinq montages à double hameçon",
       "price": "10,99 €",
       "pros": ["Double hameçon pour deux chances de touche", "Mousqueton rapide"],
       "image": "/images/products/annyswit-flapper-rig.jpg",
@@ -32,6 +35,7 @@
     },
     {
       "name": "Angel Berger Lot de 5 Plombs de Surf 100g",
+      "speechName": "ce lot de cinq plombs de surf",
       "price": "9,99 €",
       "pros": ["Prix le plus bas du comparatif", "Format polyvalent"],
       "image": "/images/products/angel-berger-plombs-surf.jpg",
@@ -40,6 +44,7 @@
     },
     {
       "name": "9KM DWLIFE Lot de 300 Hameçons, 10 Tailles",
+      "speechName": "cette boîte de trois cents hameçons, en dix tailles différentes",
       "price": "10,99 €",
       "pros": ["300 hameçons pour un prix équivalent aux petits lots", "10 tailles différentes"],
       "image": "/images/products/9km-dwlife-hamecons.jpg",

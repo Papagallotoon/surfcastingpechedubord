@@ -95,8 +95,17 @@ const MIDDLE_TEMPLATES = [
   (name, price) => `Et voici ${name}, à ${price} !`,
 ];
 
+// Product names here are mostly a foreign/marketplace brand plus an
+// English model name (Rapala, PENN, Baitcasting, Surfblaster...) that the
+// generic cleanup below can't safely rewrite into natural French — each
+// content file sets an explicit speechName instead of relying on
+// simplifyNameForSpeech guessing at what to strip.
+function spokenProductName(product) {
+  return product.speechName || simplifyNameForSpeech(stripDimensionsForSpeech(product.name));
+}
+
 function productSentence(product, i, total, isComparatif) {
-  const name = simplifyNameForSpeech(stripDimensionsForSpeech(product.name));
+  const name = spokenProductName(product);
   const price = product.price;
   let sentence;
   if (i === 0) sentence = `On commence petit budget, avec ${name}, à seulement ${price}`;
@@ -116,8 +125,8 @@ function productSentence(product, i, total, isComparatif) {
 function comparatifConclusion(products) {
   const cheapest = products[0];
   const priciest = products[products.length - 1];
-  const cheapName = simplifyNameForSpeech(stripDimensionsForSpeech(cheapest.name));
-  const premiumName = simplifyNameForSpeech(stripDimensionsForSpeech(priciest.name));
+  const cheapName = spokenProductName(cheapest);
+  const premiumName = spokenProductName(priciest);
   return `En résumé : ${cheapName} pour un premier prix malin, ${premiumName} si tu veux le haut de gamme !`;
 }
 
@@ -146,10 +155,10 @@ const HOOK_TEMPLATES = {
     (t) => `Tu cherches ${t} ? T'es au bon endroit !`,
   ],
   comparatif: [
-    (t) => `On compare pour toi ${t} !`,
-    (t) => `${t} : on t'aide à choisir !`,
-    (t) => `5 pépites parmi ${t}, comparatif complet !`,
-    (t) => `On a trouvé pour toi ${t}, lequel est fait pour toi ?`,
+    (t) => `Top 5 ${t} !`,
+    (t) => `${t}, notre classement !`,
+    (t) => `On a testé ${t} !`,
+    (t) => `${t}, lequel choisir ?`,
   ],
 };
 
