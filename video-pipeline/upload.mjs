@@ -60,6 +60,7 @@ const SITE_ARTICLE_PATHS = {
   "montages-terminal-tackle-surfcasting": "/montages/montages-terminal-tackle-surfcasting",
   "meilleurs-leurres-appats-peche-du-bord": "/leurres/meilleurs-leurres-appats-peche-du-bord",
   "accessoires-indispensables-surfcasting": "/accessoires/accessoires-indispensables-surfcasting",
+  "meilleurs-waders-cuissardes-peche-du-bord": "/accessoires/meilleurs-waders-cuissardes-peche-du-bord",
 };
 const SITE_DOMAIN = "https://surfcastingpechedubord.vercel.app";
 

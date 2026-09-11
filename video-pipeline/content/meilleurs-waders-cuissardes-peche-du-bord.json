@@ -1,0 +1,59 @@
+{
+  "slug": "meilleurs-waders-cuissardes-peche-du-bord",
+  "title": "Les 5 meilleurs waders et cuissardes pour la pêche du bord",
+  "excerpt": "Rester au sec plusieurs heures dans l'eau froide, c'est souvent ce qui change tout en pêche du bord : notre sélection de waders et cuissardes, du premier prix au modèle double couche.",
+  "hookSubject": "les meilleurs waders et cuissardes pour la pêche du bord",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Omega Waders Taille 43-46",
+      "speechName": "ce wader premier prix",
+      "price": "26,99 €",
+      "image": "/images/products/omega-waders-peche.jpg",
+      "category": "accessoires",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0F43GCZR9?tag=surfpdb-21",
+      "pros": ["Prix le plus bas du comparatif", "Semelle antidérapante incluse"],
+      "cons": ["Caoutchouc moins respirant que les modèles textile"]
+    },
+    {
+      "name": "QWORK Cuissardes Imperméables et Respirantes",
+      "speechName": "ces cuissardes imperméables et respirantes",
+      "price": "42,73 €",
+      "image": "/images/products/qwork-cuissardes-peche.jpg",
+      "category": "accessoires",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DRK1R3G6?tag=surfpdb-21",
+      "pros": ["Matière respirante, plus confortable en usage prolongé", "Bonne note sur ce prix"],
+      "cons": ["Moins robuste que le PVC double couche face aux rochers"]
+    },
+    {
+      "name": "Dr.Fish Waders avec Bottes, PVC Double Couche",
+      "speechName": "ce wader en PVC double épaisseur",
+      "price": "55,99 €",
+      "image": "/images/products/drfish-waders-pvc-double-couche.jpg",
+      "category": "accessoires",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DQW1Z32Y?tag=surfpdb-21",
+      "pros": ["PVC double couche, plus résistant aux rochers et coquillages", "Poche poitrine et sangles réglables"],
+      "cons": ["Le plus cher du comparatif"]
+    },
+    {
+      "name": "Night Cat Waders Poitrine Crosswater",
+      "speechName": "ce wader poitrine respirant",
+      "price": "50,99 €",
+      "image": "/images/products/nightcat-waders-crosswater.jpg",
+      "category": "accessoires",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FPQT2LZP?tag=surfpdb-21",
+      "pros": ["Matière respirante, bottes intégrées", "Bonne tenue en eau froide"],
+      "cons": ["Taille à bien vérifier avant achat"]
+    },
+    {
+      "name": "SWAWIS Cuissardes Waders Poitrine",
+      "speechName": "ces cuissardes respirantes et imperméables",
+      "price": "51,99 €",
+      "image": "/images/products/swawis-cuissardes-waders.jpg",
+      "category": "accessoires",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G2VVPDZN?tag=surfpdb-21",
+      "pros": ["Format poitrine, protection maximale", "Bretelles réglables"],
+      "cons": ["Note un peu en retrait sur ce modèle"]
+    }
+  ]
+}
