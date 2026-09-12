@@ -1,0 +1,61 @@
+{
+  "slug": "top-livres-magazines-histoire-peche",
+  "title": "Top 5 Livres sur l'Histoire de la Pêche",
+  "excerpt": "De l'épopée de la sardine bretonne à cinq siècles de pêche à la morue à Terre-Neuve, voici cinq livres pour (re)découvrir l'histoire et les récits des pêcheurs, entre traditions oubliées et grandes épopées maritimes.",
+  "hookSubject": "les meilleurs livres sur l'histoire de la pêche",
+  "format": "coup-de-coeur",
+  "videoType": "audible",
+  "image": "/images/products/jean-claude-boulard-epopee-sardine.jpg",
+  "products": [
+    {
+      "name": "L'Épopée de la Sardine, un Siècle d'Histoires de Pêches",
+      "speechName": "ce récit sur un siècle de pêche à la sardine en Bretagne",
+      "price": "2,38 €",
+      "image": "/images/products/jean-claude-boulard-epopee-sardine.jpg",
+      "category": "livres",
+      "affiliateUrl": "https://www.amazon.fr/dp/2737326427?tag=surfpdb-21",
+      "pros": ["Meilleure note du comparatif, 4,8/5", "Raconte un siècle de vie des pêcheurs de sardine en Bretagne"],
+      "cons": ["Disponible d'occasion, couverture simple"]
+    },
+    {
+      "name": "Autrefois la Pêche en Eau Douce : Insolite, Histoires, Traditions et Savoir-Faire",
+      "speechName": "ce livre sur les traditions insolites de la pêche en eau douce d'autrefois",
+      "price": "3,62 €",
+      "image": "/images/products/nelson-cazeils-autrefois-peche-eau-douce.jpg",
+      "category": "livres",
+      "affiliateUrl": "https://www.amazon.fr/dp/2737331137?tag=surfpdb-21",
+      "pros": ["Une soixantaine d'anecdotes et traditions de la pêche en eau douce", "Le prix le plus accessible du comparatif"],
+      "cons": ["Disponible d'occasion, un seul exemplaire au moment de la rédaction"]
+    },
+    {
+      "name": "Cinq Siècles de Pêche à la Morue : Terre-Neuvas et Islandais",
+      "speechName": "ce livre sur cinq siècles de pêche à la morue à Terre-Neuve",
+      "price": "4,59 €",
+      "image": "/images/products/nelson-cazeils-cinq-siecles-peche-morue.jpg",
+      "category": "livres",
+      "affiliateUrl": "https://www.amazon.fr/dp/2737323045?tag=surfpdb-21",
+      "pros": ["Préfacé par Jean Recher, ancien capitaine terre-neuvas", "Retrace cinq siècles de pêche à la morue à Terre-Neuve et en Islande"],
+      "cons": ["Disponible d'occasion, stock limité"]
+    },
+    {
+      "name": "Une Histoire de la Pêche à la Mouche en 50 Modèles",
+      "speechName": "ce livre sur 500 ans d'histoire de la pêche à la mouche",
+      "price": "12,05 €",
+      "image": "/images/products/ian-whitelaw-histoire-peche-mouche.jpg",
+      "category": "livres",
+      "affiliateUrl": "https://www.amazon.fr/dp/2351911709?tag=surfpdb-21",
+      "pros": ["500 ans d'histoire de la pêche à la mouche à travers 50 modèles emblématiques", "Illustrations à l'aquarelle et documents d'archives"],
+      "cons": ["Disponible d'occasion, stock limité"]
+    },
+    {
+      "name": "Histoire de la Pêche à la Ligne : Au Fil de l'Eau et du Temps",
+      "speechName": "ce beau livre sur l'histoire de la pêche à la ligne depuis l'Antiquité",
+      "price": "14,99 €",
+      "image": "/images/products/pierre-juhel-histoire-peche-a-la-ligne.jpg",
+      "category": "livres",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01GJSRMR0?tag=surfpdb-21",
+      "pros": ["Note de 4,8/5, 277 pages richement illustrées", "Retrace la pêche à la ligne de l'Antiquité à 1930"],
+      "cons": ["Disponible uniquement en version numérique Kindle"]
+    }
+  ]
+}

@@ -42,6 +42,7 @@ const CATEGORY_TAGS = {
   montages: ["montage surfcasting", "terminal tackle peche"],
   leurres: ["leurre peche mer", "appat peche"],
   accessoires: ["materiel surfcasting", "accessoire peche mer"],
+  livres: ["livre peche", "histoire de la peche"],
 };
 
 function buildTags(article) {
@@ -64,6 +65,7 @@ const SITE_ARTICLE_PATHS = {
   "meilleurs-gilets-securite-peche-du-bord": "/accessoires/meilleurs-gilets-securite-peche-du-bord",
   "meilleurs-sacs-transport-peche-du-bord": "/accessoires/meilleurs-sacs-transport-peche-du-bord",
   "meilleures-boites-rangement-peche-du-bord": "/accessoires/meilleures-boites-rangement-peche-du-bord",
+  "top-livres-magazines-histoire-peche": "/accessoires/top-livres-magazines-histoire-peche",
 };
 const SITE_DOMAIN = "https://surfcastingpechedubord.vercel.app";
 
