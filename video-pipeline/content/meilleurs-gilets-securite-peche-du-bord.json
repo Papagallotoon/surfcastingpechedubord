@@ -1,0 +1,55 @@
+{
+  "slug": "meilleurs-gilets-securite-peche-du-bord",
+  "title": "Les 5 meilleurs gilets de sécurité et de flottaison pour la pêche du bord",
+  "excerpt": "Du gilet de flottaison certifié norme européenne à 46 € au gilet de sauvetage gonflable spécial pêche à 75 €, notre sélection pour pêcher en sécurité sur les rochers ou en wading.",
+  "hookSubject": "les meilleurs gilets de sécurité pour la pêche du bord",
+  "format": "comparatif",
+  "image": "/images/products/leader-accessories-gilet-flottaison.jpg",
+  "products": [
+    {
+      "name": "Leader Accessories Gilet de Flottaison Adulte Certifié Sécurité Européenne",
+      "speechName": "ce gilet de flottaison certifié norme européenne",
+      "price": "45,99 €",
+      "pros": ["Certifié norme de sécurité européenne", "Léger et compact, fixation à 3 points avec bandes réfléchissantes"],
+      "image": "/images/products/leader-accessories-gilet-flottaison.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B015O2TP86?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Mesle Gilet de Flottaison Pêche Fisherman avec Poches, 50N",
+      "speechName": "ce gilet de flottaison avec poches",
+      "price": "46,99 €",
+      "pros": ["Flottabilité 50N adaptée de 40 à 150 kg", "Poches intégrées pour ranger le petit matériel"],
+      "image": "/images/products/mesle-gilet-flottaison-peche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0942XKXHC?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Owntop Gilet de Flottaison en Mousse avec Sangle d'Entrejambe",
+      "speechName": "cette aide à la flottabilité en mousse",
+      "price": "54,99 €",
+      "pros": ["Sangle d'entrejambe pour un maintien sûr", "Poche intérieure pratique, plus de 4,6/5 en moyenne"],
+      "image": "/images/products/owntop-gilet-flottaison-mousse.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DKTL3796?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "12skipper Gilet de Sauvetage Automatique Waistbelt 165N",
+      "speechName": "ce gilet de sauvetage automatique à ceinture",
+      "price": "64,90 €",
+      "pros": ["Déclenchement automatique en cas de chute à l'eau", "Format ceinture compact, peu encombrant pour pêcher"],
+      "image": "/images/products/12skipper-gilet-sauvetage-automatique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08HH7YV2N?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Orange Marine Gilet de Sauvetage Gonflable Manuel 170N Spécial Pêche",
+      "speechName": "ce gilet de sauvetage gonflable spécial pêche",
+      "price": "75,00 €",
+      "pros": ["170N conforme à la norme marine ISO 12402-3", "Conçu spécifiquement pour la pêche, réarmable"],
+      "image": "/images/products/orangemarine-gilet-sauvetage-gonflable.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08NCS2Y6K?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

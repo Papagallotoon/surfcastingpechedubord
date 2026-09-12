@@ -61,6 +61,9 @@ const SITE_ARTICLE_PATHS = {
   "meilleurs-leurres-appats-peche-du-bord": "/leurres/meilleurs-leurres-appats-peche-du-bord",
   "accessoires-indispensables-surfcasting": "/accessoires/accessoires-indispensables-surfcasting",
   "meilleurs-waders-cuissardes-peche-du-bord": "/accessoires/meilleurs-waders-cuissardes-peche-du-bord",
+  "meilleurs-gilets-securite-peche-du-bord": "/accessoires/meilleurs-gilets-securite-peche-du-bord",
+  "meilleurs-sacs-transport-peche-du-bord": "/accessoires/meilleurs-sacs-transport-peche-du-bord",
+  "meilleures-boites-rangement-peche-du-bord": "/accessoires/meilleures-boites-rangement-peche-du-bord",
 };
 const SITE_DOMAIN = "https://surfcastingpechedubord.vercel.app";
 

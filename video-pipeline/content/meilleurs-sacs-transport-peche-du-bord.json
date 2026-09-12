@@ -1,0 +1,55 @@
+{
+  "slug": "meilleurs-sacs-transport-peche-du-bord",
+  "title": "Les 5 meilleurs sacs de transport pour la pêche du bord",
+  "excerpt": "Du sac à dos premier prix à 27 € au sac étanche Savage Gear à 99 €, notre sélection de sacs pour transporter cannes, boîtes et accessoires jusqu'au spot.",
+  "hookSubject": "les meilleurs sacs de transport pour la pêche du bord",
+  "format": "comparatif",
+  "image": "/images/products/rainsmore-sac-dos-peche-45l.jpg",
+  "products": [
+    {
+      "name": "MoKo Sac à Dos de Pêche avec Support pour Canne",
+      "speechName": "ce sac à dos de pêche avec support pour canne",
+      "price": "26,99 €",
+      "pros": ["Prix d'entrée le plus accessible du comparatif", "Support intégré pour la canne à pêche, nylon imperméable"],
+      "image": "/images/products/moko-sac-dos-peche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DRFBLL92?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "QKTYB Sac de Pêche Grande Taille avec Porte-Canne",
+      "speechName": "ce sac de pêche grande taille avec porte-canne",
+      "price": "35,99 €",
+      "pros": ["Grande contenance, format 45 x 30 x 25 cm", "Multi-poches en tissu Oxford résistant"],
+      "image": "/images/products/qktyb-sac-peche-porte-canne.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DWSTWV7D?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Rainsmore Sac à Dos de Pêche 45L avec Porte-Canne et Housse de Pluie",
+      "speechName": "ce sac à dos de pêche de quarante-cinq litres",
+      "price": "46,86 €",
+      "pros": ["45 litres de contenance, plus de 4,7/5 en moyenne", "Housse de pluie incluse"],
+      "image": "/images/products/rainsmore-sac-dos-peche-45l.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GGRFH5MV?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Skysper Sac à Dos de Pêche 40L avec Porte-Cannes",
+      "speechName": "ce sac à dos de pêche de quarante litres",
+      "price": "55,99 €",
+      "pros": ["40 litres, compartiment réglable pour le matériel", "Porte-cannes intégré"],
+      "image": "/images/products/skysper-sac-dos-peche-40l.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FGHKBKTQ?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Savage Gear Sac à Dos de Pêche Étanche 23L",
+      "speechName": "ce sac à dos de pêche étanche haut de gamme",
+      "price": "98,90 €",
+      "pros": ["Marque de référence en pêche en mer", "Compartiments multiples protégés contre les UV"],
+      "image": "/images/products/savage-gear-sac-dos-peche-etanche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09KHFHQXV?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

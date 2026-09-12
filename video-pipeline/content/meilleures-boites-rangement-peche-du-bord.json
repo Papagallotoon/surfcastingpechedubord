@@ -1,0 +1,55 @@
+{
+  "slug": "meilleures-boites-rangement-peche-du-bord",
+  "title": "Les 5 meilleures boîtes de rangement pour le matériel de pêche du bord",
+  "excerpt": "De la boîte Plano à moins de 10 € à la mallette hybride Plano Hip 3 à 85 €, notre sélection de boîtes pour ranger hameçons, leurres et montages sans tout perdre dans le sable.",
+  "hookSubject": "les meilleures boîtes de rangement pour le matériel de pêche",
+  "format": "comparatif",
+  "image": "/images/products/plano-stowaway-3500-boite-rangement.jpg",
+  "products": [
+    {
+      "name": "Plano Stowaway 3500 Boîte de Rangement Double Face",
+      "speechName": "cette boîte de rangement double face",
+      "price": "9,99 €",
+      "pros": ["Prix le plus bas du comparatif", "Compartiments transparents double face"],
+      "image": "/images/products/plano-stowaway-3500-boite-rangement.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B000Y89C6G?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Rapala Tackle Tray 276 Boîte de Pêche Robuste",
+      "speechName": "cette boîte de pêche robuste Rapala",
+      "price": "12,99 €",
+      "pros": ["Marque Rapala, référence en pêche", "Fabriquée en Finlande, format robuste 27,6 x 18 cm"],
+      "image": "/images/products/rapala-tackle-tray-276.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BHL1JFKV?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Meiho Tackle Box Versus VS-820 Boîte de Rangement",
+      "speechName": "cette boîte de rangement Meiho",
+      "price": "13,90 €",
+      "pros": ["Marque japonaise Meiho, référence qualité", "Format compact 23 x 12 x 3 cm"],
+      "image": "/images/products/meiho-tackle-box-vs820.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B000B6EM3E?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Korda Basix Boîte de Rangement Transparente",
+      "speechName": "cette boîte de rangement transparente Korda",
+      "price": "34,25 €",
+      "pros": ["Plus de 4,8/5 en note moyenne", "Compartiments transparents pour repérer le matériel"],
+      "image": "/images/products/korda-basix-boite-rangement.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09B2C45KN?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Plano Tackle Systems Boîte de Rangement Hybride Hip 3",
+      "speechName": "cette boîte de rangement hybride haut de gamme",
+      "price": "85,01 €",
+      "pros": ["Le plus cher du comparatif, format hybride complet", "Marque Plano, référence historique du rangement de pêche"],
+      "image": "/images/products/plano-hip3-boite-rangement-hybride.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B00OY9JSWO?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}
