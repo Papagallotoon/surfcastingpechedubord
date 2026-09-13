@@ -7,13 +7,14 @@
     "meilleures-cannes-surfcasting",
     "meilleurs-moulinets-surfcasting",
     "meilleures-boites-rangement-peche-du-bord",
-    "top-livres-magazines-histoire-peche"
+    "top-livres-magazines-histoire-peche",
+    "meilleurs-gilets-securite-peche-du-bord"
   ],
-  "lastRunAt": "2026-09-12T21:59:10.955Z",
+  "lastRunAt": "2026-09-13T10:56:42.886Z",
   "dailyCounts": {
-    "date": "2026-09-12",
-    "comparatif": 3,
-    "audible": 1,
+    "date": "2026-09-13",
+    "comparatif": 1,
+    "audible": 0,
     "solo": 0
   }
 }
