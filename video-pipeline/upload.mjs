@@ -66,6 +66,11 @@ const SITE_ARTICLE_PATHS = {
   "meilleurs-sacs-transport-peche-du-bord": "/accessoires/meilleurs-sacs-transport-peche-du-bord",
   "meilleures-boites-rangement-peche-du-bord": "/accessoires/meilleures-boites-rangement-peche-du-bord",
   "top-livres-magazines-histoire-peche": "/accessoires/top-livres-magazines-histoire-peche",
+  "meilleures-tresses-fils-surfcasting": "/montages/meilleures-tresses-fils-surfcasting",
+  "meilleures-glacieres-peche-du-bord": "/accessoires/meilleures-glacieres-peche-du-bord",
+  "meilleurs-sieges-chaises-peche-du-bord": "/accessoires/meilleurs-sieges-chaises-peche-du-bord",
+  "meilleures-lunettes-polarisantes-peche": "/accessoires/meilleures-lunettes-polarisantes-peche",
+  "meilleurs-detecteurs-touche-surfcasting": "/accessoires/meilleurs-detecteurs-touche-surfcasting",
 };
 const SITE_DOMAIN = "https://surfcastingpechedubord.vercel.app";
 

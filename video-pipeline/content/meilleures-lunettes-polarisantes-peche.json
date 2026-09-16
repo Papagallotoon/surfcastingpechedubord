@@ -1,0 +1,70 @@
+{
+  "slug": "meilleures-lunettes-polarisantes-peche",
+  "title": "Les 5 meilleures lunettes polarisantes pour la pêche du bord",
+  "excerpt": "Des lunettes polarisées TR90 à 13 € aux Fishoholic spéciales pêche à 51 €, notre sélection pour couper les reflets sur l'eau et protéger ses yeux en bord de mer.",
+  "hookSubject": "les meilleures lunettes polarisantes pour la pêche",
+  "format": "comparatif",
+  "image": "/images/products/lunettes-polarisees-tr90-peche.jpg",
+  "products": [
+    {
+      "name": "Lunettes de Soleil Polarisées Ultralégères TR90 Pêche et Conduite",
+      "speechName": "ces lunettes polarisées ultralégères",
+      "price": "12,60 €",
+      "pros": [
+        "Monture souple qui se fait oublier",
+        "Verres polarisés 9 couches UV400, plus de 1 000 avis"
+      ],
+      "image": "/images/products/lunettes-polarisees-tr90-peche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BN3WNDKV?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Berkley Lunettes de Soleil Polarisées Mixte",
+      "speechName": "ces lunettes polarisées d'une marque de pêche",
+      "price": "20,99 €",
+      "pros": [
+        "Une vraie marque de pêche",
+        "Verres TAC polarisés résistants aux chocs"
+      ],
+      "image": "/images/products/berkley-lunettes-polarisees.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08MNTZM7M?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Sunier Lunettes de Soleil Polarisées Sportives UV400",
+      "speechName": "ces lunettes polarisées enveloppantes",
+      "price": "21,65 €",
+      "pros": [
+        "Coupe aussi les reflets latéraux",
+        "Monture polycarbonate ultralégère"
+      ],
+      "image": "/images/products/sunier-lunettes-polarisees-sport.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CRL4Z58F?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "ATTCL Lunettes de Soleil Polarisées Sport Monture Al-Mg",
+      "speechName": "ces lunettes polarisées à monture métal légère",
+      "price": "26,59 €",
+      "pros": [
+        "Monture métal solide et légère",
+        "Plus de 4 000 avis"
+      ],
+      "image": "/images/products/attcl-lunettes-polarisees-al-mg.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0B4FV8R8N?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Fishoholic Lunettes de Soleil Polarisées UV400",
+      "speechName": "ces lunettes polarisées spéciales pêche",
+      "price": "51,00 €",
+      "pros": [
+        "Pensées pour les pêcheurs en mer",
+        "Étui rigide inclus, note de 4,5/5 sur plus de 4 700 avis"
+      ],
+      "image": "/images/products/fishoholic-lunettes-polarisees.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07PW3NYXG?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

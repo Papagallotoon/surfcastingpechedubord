@@ -1,0 +1,70 @@
+{
+  "slug": "meilleures-tresses-fils-surfcasting",
+  "title": "Les 5 meilleures tresses et fils de pêche pour le surfcasting",
+  "excerpt": "De la tresse 4 brins premier prix à 8 € à la tresse japonaise 8 brins à 27 €, en passant par un nylon à revêtement fluorocarbone, notre sélection de fils pour lancer loin depuis la plage.",
+  "hookSubject": "les meilleures tresses et fils de pêche pour le surfcasting",
+  "format": "comparatif",
+  "image": "/images/products/extreme-braid-fil-tresse-300m.jpg",
+  "products": [
+    {
+      "name": "Extreme Braid Fil de Pêche Tressé 100 % Polyéthylène 300 m",
+      "speechName": "cette tresse quatre brins de trois cents mètres",
+      "price": "8,49 €",
+      "pros": [
+        "Grande bobine à tout petit prix",
+        "Zéro étirement pour sentir les touches légères, plus de 2 900 avis"
+      ],
+      "image": "/images/products/extreme-braid-fil-tresse-300m.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B076SCB7C7?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Paradox Fishing PX Tresse de Pêche 8 Brins",
+      "speechName": "cette tresse huit brins très souple",
+      "price": "13,99 €",
+      "pros": [
+        "Souple et gainée pour lancer loin",
+        "Meilleure note du comparatif avec la Berkley, 4,6/5"
+      ],
+      "image": "/images/products/paradox-fishing-px-tresse-8-brins.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CWDPMSPN?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Namaka Fil ROI Revêtement Fluorocarbone 1000 m",
+      "speechName": "ce nylon à revêtement fluorocarbone de mille mètres",
+      "price": "16,76 €",
+      "pros": [
+        "Encaisse les frottements sur les rochers",
+        "Revêtement fluorocarbone résistant à l'abrasion, adapté au surfcasting"
+      ],
+      "image": "/images/products/namaka-roi-fil-fluorocarbone.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CLKMJH3Z?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Berkley FireLine Fused Original Tresse 8 Brins",
+      "speechName": "cette tresse fusionnée de chez Berkley",
+      "price": "18,60 €",
+      "pros": [
+        "Brins soudés pour durer plus longtemps",
+        "Profil rond qui lance loin, note de 4,6/5"
+      ],
+      "image": "/images/products/berkley-fireline-fused-tresse.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09MB4ZVYP?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Daiwa J-Braid 8 Tresse de Pêche 300 m Multicolore",
+      "speechName": "la tresse japonaise huit brins de chez Daïwa",
+      "price": "27,02 €",
+      "pros": [
+        "Multicolore pour mesurer ses lancers",
+        "Multicolore pour estimer la distance de lancer, plus de 1 100 avis"
+      ],
+      "image": "/images/products/daiwa-j-braid-8-tresse.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B016AOBSYQ?tag=surfpdb-21",
+      "category": "montages"
+    }
+  ]
+}

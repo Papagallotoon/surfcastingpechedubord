@@ -1,0 +1,70 @@
+{
+  "slug": "meilleurs-sieges-chaises-peche-du-bord",
+  "title": "Les 5 meilleurs sièges et chaises pour la pêche du bord",
+  "excerpt": "Du fauteuil pliant à 13 € à la chaise de pêche rembourrée KESSER à 63 €, notre sélection de sièges pour tenir une longue session de surfcasting confortablement.",
+  "hookSubject": "les meilleurs sièges et chaises pour la pêche du bord",
+  "format": "comparatif",
+  "image": "/images/products/mojawo-chaise-pliante-peche.jpg",
+  "products": [
+    {
+      "name": "Mojawo Chaise Pliante Pêche et Camping avec Porte-Gobelet",
+      "speechName": "ce fauteuil pliant de pêche avec porte-gobelet",
+      "price": "12,99 €",
+      "pros": [
+        "Un vrai fauteuil à petit prix",
+        "Porte-gobelet et sac de transport inclus"
+      ],
+      "image": "/images/products/mojawo-chaise-pliante-peche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B083S1XJDJ?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Tabouret de Camping Pliable Portable Siège de Pêche",
+      "speechName": "ce tabouret pliable ultraléger",
+      "price": "19,95 €",
+      "pros": [
+        "Idéal pour le pêcheur itinérant",
+        "Supporte jusqu'à 100 kg, note de 4,5/5"
+      ],
+      "image": "/images/products/tabouret-pliable-siege-peche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DFH6FDP6?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "TREKOLOGY Chaise Pliante Ultralégère en Aluminium",
+      "speechName": "cette chaise pliante ultralégère en aluminium",
+      "price": "33,29 €",
+      "pros": [
+        "Un dossier pour moins d'un kilo",
+        "Structure aluminium jusqu'à 135 kg, plus de 6 000 avis"
+      ],
+      "image": "/images/products/trekology-chaise-pliante-ultralegere.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07NT77GT8?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "LET'S CAMP Chaise de Camping Pliable Rembourrée avec Porte-Gobelets",
+      "speechName": "cette chaise pliante rembourrée grande taille",
+      "price": "38,99 €",
+      "pros": [
+        "Rembourrée avec de vrais accoudoirs",
+        "Cadre acier antirouille, note de 4,5/5"
+      ],
+      "image": "/images/products/lets-camp-chaise-pliable-rembourree.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CCXQ17VQ?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "KESSER Chaise de Pêche Pliante Rembourrée avec Lampe",
+      "speechName": "cette chaise de pêche rembourrée avec lampe",
+      "price": "62,80 €",
+      "pros": [
+        "Lampe incluse pour pêcher la nuit",
+        "Lampe rechargeable magnétique incluse pour la pêche de nuit"
+      ],
+      "image": "/images/products/kesser-chaise-peche-rembourree.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D6YDDGDL?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

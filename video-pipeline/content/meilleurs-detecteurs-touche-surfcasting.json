@@ -1,0 +1,70 @@
+{
+  "slug": "meilleurs-detecteurs-touche-surfcasting",
+  "title": "Les 5 meilleurs détecteurs et alarmes de touche pour le surfcasting",
+  "excerpt": "Des bâtons lumineux à LED à 11 € à l'alarme électronique réglable à 27 €, notre sélection pour ne plus rater une touche en pêche de nuit.",
+  "hookSubject": "les meilleurs détecteurs de touche pour le surfcasting",
+  "format": "comparatif",
+  "image": "/images/products/aouzovli-detecteurs-touche-led.jpg",
+  "products": [
+    {
+      "name": "AOUZOVLI Lot de 6 Détecteurs de Touche LED Étanches",
+      "speechName": "ce lot de six détecteurs lumineux étanches",
+      "price": "10,99 €",
+      "pros": [
+        "De quoi équiper toutes ses cannes",
+        "LED et signal sonore, joint silicone étanche, 4,5/5"
+      ],
+      "image": "/images/products/aouzovli-detecteurs-touche-led.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DG8RRWRG?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Lot de 5 Détecteurs de Touche Électroniques LED 2 en 1 avec Capteur de Mouvement",
+      "speechName": "ce lot de cinq détecteurs à capteur de mouvement",
+      "price": "15,11 €",
+      "pros": [
+        "Clignote vert dès la touche",
+        "Ne réagit pas au simple balancement de la canne"
+      ],
+      "image": "/images/products/detecteurs-touche-led-mouvement-lot-5.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CDH5FHLH?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "DONGZQAN Lot de 4 Indicateurs de Touche avec Cloche et Veilleuse",
+      "speechName": "ce lot de quatre indicateurs lumineux avec clochette",
+      "price": "16,99 €",
+      "pros": [
+        "Lumière et clochette à la fois",
+        "Piles rechargeables fournies, plus de 180 avis"
+      ],
+      "image": "/images/products/dongzqan-indicateurs-touche-cloche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D79DSP85?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Vegena Lot de 4 Détecteurs de Touche Électroniques avec Indicateur LED",
+      "speechName": "ce lot de quatre alarmes électroniques lumineuses",
+      "price": "19,99 €",
+      "pros": [
+        "Alarme sonore et lumineuse",
+        "Petit format facile à clipser, note de 4,3/5"
+      ],
+      "image": "/images/products/vegena-detecteurs-touche-electroniques.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CQPD33ZN?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Mengshen Alarme de Touche Électronique Son et Lumière à Sensibilité Réglable",
+      "speechName": "cette alarme de touche à sensibilité réglable",
+      "price": "26,99 €",
+      "pros": [
+        "Sensibilité réglable selon le vent",
+        "Étui silicone antidérapant qui tient sur la canne"
+      ],
+      "image": "/images/products/mengshen-alarme-touche-electronique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CZLJTF6H?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

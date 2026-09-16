@@ -1,0 +1,70 @@
+{
+  "slug": "meilleures-glacieres-peche-du-bord",
+  "title": "Les 5 meilleures glacières pour la pêche du bord",
+  "excerpt": "De la glacière souple 12 litres à 25 € à la glacière rigide Coleman 66 litres à 111 €, notre sélection pour garder appâts, boissons et prises au frais sur la plage.",
+  "hookSubject": "les meilleures glacières pour la pêche du bord",
+  "format": "comparatif",
+  "image": "/images/products/lekesky-glaciere-souple-12l.jpg",
+  "products": [
+    {
+      "name": "Lekesky Glacière Souple 12 L Sac Isotherme Étanche",
+      "speechName": "ce sac isotherme étanche de douze litres",
+      "price": "24,99 €",
+      "pros": [
+        "Léger et étanche pour une marée",
+        "Extérieur étanche en TPU, froid maintenu jusqu'à 24 h"
+      ],
+      "image": "/images/products/lekesky-glaciere-souple-12l.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FQVFXNDL?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Polarbox Glacière Vintage 20 L",
+      "speechName": "cette glacière rigide rétro de vingt litres",
+      "price": "32,90 €",
+      "pros": [
+        "Rigide, légère et facile à porter",
+        "Note de 4,6/5 sur plus de 900 avis"
+      ],
+      "image": "/images/products/polarbox-glaciere-vintage-20l.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G6M92134?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Campingaz Icetime Plus 26 L Glacière",
+      "speechName": "cette glacière rigide de vingt-six litres",
+      "price": "42,90 €",
+      "pros": [
+        "Isolation épaisse dans le couvercle",
+        "Accepte les bouteilles d'un litre et demi debout, 4,6/5"
+      ],
+      "image": "/images/products/campingaz-icetime-plus-26l-glaciere.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01AJE3QPC?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Mobicool ME27 Glacière Électrique 26 L 12 V / 230 V",
+      "speechName": "cette glacière électrique à brancher dans la voiture",
+      "price": "54,99 €",
+      "pros": [
+        "Se branche directement sur la voiture",
+        "Refroidit jusqu'à 18 °C sous la température ambiante, 3 800 avis"
+      ],
+      "image": "/images/products/mobicool-me27-glaciere-electrique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B094G49NNV?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Coleman Xtreme Glacière Rigide 66 L",
+      "speechName": "cette grande glacière rigide de soixante-six litres",
+      "price": "110,95 €",
+      "pros": [
+        "Garde la glace plusieurs jours",
+        "Grande capacité de 66 litres en PEHD robuste"
+      ],
+      "image": "/images/products/coleman-xtreme-glaciere-rigide.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09MKPWQ31?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}
