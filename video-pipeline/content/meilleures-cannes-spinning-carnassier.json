@@ -1,0 +1,70 @@
+{
+  "slug": "meilleures-cannes-spinning-carnassier",
+  "title": "Les 5 meilleures cannes spinning pour la pêche des carnassiers",
+  "excerpt": "De la canne à 33 € pour débuter au modèle en carbone haut de gamme, notre sélection de cannes spinning pour pêcher le brochet, le sandre et la perche aux leurres.",
+  "hookSubject": "les meilleures cannes spinning pour le carnassier",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Shimano FX XT Spinning 2,10 à 2,70 m",
+      "speechName": "cette canne d'entrée de gamme d'une grande marque japonaise",
+      "price": "33,62 €",
+      "pros": [
+        "La moins chère du comparatif, signée d'une marque de référence",
+        "Trois longueurs disponibles, de 2,10 mètres à 2,70 mètres"
+      ],
+      "image": "/images/products/shimano-fx-xt-spinning.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0846P14C5?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Mitchell Epic MX1 Spinning",
+      "speechName": "cette canne pensée pour les leurres légers",
+      "price": "44,99 €",
+      "pros": [
+        "Taillée pour les petits leurres, en lac comme en rivière",
+        "Bon rapport qualité-prix pour débuter à la perche"
+      ],
+      "image": "/images/products/mitchell-epic-mx1-spinning.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BDMT1N57?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Abu Garcia Devil Spinning",
+      "speechName": "cette canne polyvalente eau douce et mer",
+      "price": "56,17 €",
+      "pros": [
+        "Utilisable en eau douce comme en bord de mer",
+        "Blank nerveux qui encaisse les leurres lourds"
+      ],
+      "image": "/images/products/abu-garcia-devil-spinning.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B004O6LQ1S?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Daiwa Exceler Spin",
+      "speechName": "cette canne en carbone d'une grande marque japonaise",
+      "price": "75,23 €",
+      "pros": [
+        "Carbone léger, agréable sur une longue session de lancers",
+        "Une des mieux notées du comparatif, 4,6 sur 5"
+      ],
+      "image": "/images/products/daiwa-exceler-spin.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CSDSG7M3?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Abu Garcia ORRA Predator Spinning",
+      "speechName": "cette canne haut de gamme dédiée aux carnassiers",
+      "price": "84,99 €",
+      "pros": [
+        "Le modèle le plus abouti de la sélection",
+        "Anneaux et poignée soignés, pensés pour la pêche aux leurres toute la journée"
+      ],
+      "image": "/images/products/abu-garcia-orra-predator-spinning.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D95NW6FF?tag=surfpdb-21",
+      "category": "cannes"
+    }
+  ],
+  "image": "/images/products/shimano-fx-xt-spinning.jpg"
+}

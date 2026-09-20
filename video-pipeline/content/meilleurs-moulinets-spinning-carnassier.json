@@ -1,0 +1,70 @@
+{
+  "slug": "meilleurs-moulinets-spinning-carnassier",
+  "title": "Les 5 meilleurs moulinets spinning pour la pêche des carnassiers",
+  "excerpt": "Du moulinet à 34 € pour débuter au modèle japonais à plus de 100 €, notre sélection de moulinets spinning en taille 2500 et 3000 pour le brochet, le sandre et la perche.",
+  "hookSubject": "les meilleurs moulinets spinning pour le carnassier",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Abu Garcia Cardinal X Spinning",
+      "speechName": "ce moulinet d'entrée de gamme pour la pêche aux leurres",
+      "price": "33,90 €",
+      "pros": [
+        "Le moins cher du comparatif",
+        "Suffisant pour débuter à la perche et à la truite"
+      ],
+      "image": "/images/products/abu-garcia-cardinal-x.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09DGV65TT?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Daiwa 20 Laguna LT, garni en tresse",
+      "speechName": "ce moulinet léger livré déjà garni en tresse",
+      "price": "43,98 €",
+      "pros": [
+        "Livré garni en tresse, prêt à pêcher",
+        "Construction légère, agréable sur une canne fine"
+      ],
+      "image": "/images/products/daiwa-20-laguna-lt.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CLH28GVX?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Daiwa 23 Ninja LT",
+      "speechName": "ce moulinet au rapport qualité-prix très solide",
+      "price": "59,38 €",
+      "pros": [
+        "Frein avant progressif, précis sur les gros poissons",
+        "Un des moulinets les plus recommandés dans cette gamme de prix"
+      ],
+      "image": "/images/products/daiwa-23-ninja-lt.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CH15QHMD?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Shimano Sedona FJ 3000",
+      "speechName": "ce moulinet en taille trois mille noté cinq sur cinq",
+      "price": "73,33 €",
+      "pros": [
+        "Note parfaite de 5 sur 5",
+        "Taille 3000, la plus polyvalente pour le brochet et le sandre"
+      ],
+      "image": "/images/products/shimano-sedona-fj-3000.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CCPHG4SG?tag=surfpdb-21",
+      "category": "moulinets"
+    },
+    {
+      "name": "Shimano Nasci FD",
+      "speechName": "ce moulinet haut de gamme étanche aux projections",
+      "price": "112,12 €",
+      "pros": [
+        "Protection contre l'eau et le sable, parfait aussi en bord de mer",
+        "Rotation très douce, le meilleur de la sélection"
+      ],
+      "image": "/images/products/shimano-nasci-fd.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FGYPCHPT?tag=surfpdb-21",
+      "category": "moulinets"
+    }
+  ],
+  "image": "/images/products/abu-garcia-cardinal-x.jpg"
+}

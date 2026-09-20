@@ -1,0 +1,70 @@
+{
+  "slug": "meilleurs-leurres-durs-brochet-perche",
+  "title": "Les 5 meilleurs leurres durs pour le brochet et la perche",
+  "excerpt": "Du crankbait à 8 € au gros jerkbait de 15 cm pour les brochets trophées, notre sélection de leurres durs pour prospecter vite et loin.",
+  "hookSubject": "les meilleurs leurres durs pour le brochet et la perche",
+  "format": "coup-de-coeur",
+  "products": [
+    {
+      "name": "Berkley Pulse Biggie Crankbait",
+      "speechName": "ce petit poisson nageur plongeant",
+      "price": "7,99 €",
+      "pros": [
+        "Le moins cher du comparatif",
+        "Nage serrée en faible profondeur, parfait pour la perche"
+      ],
+      "image": "/images/products/berkley-pulse-biggie-crankbait.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CTSQMWLZ?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Rapala X-Rap",
+      "speechName": "ce poisson nageur d'une marque de référence mondiale",
+      "price": "11,99 €",
+      "pros": [
+        "Un grand classique, monté d'origine avec des hameçons renforcés",
+        "Nage entre 60 centimètres et 90 centimètres de profondeur"
+      ],
+      "image": "/images/products/rapala-x-rap-eau-douce.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B001NXCYH0?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Rapala Jointed",
+      "speechName": "ce poisson nageur articulé en deux parties",
+      "price": "15,99 €",
+      "pros": [
+        "Corps articulé qui ondule même à vitesse très lente",
+        "Polyvalent, du brochet à la truite, noté 4,7 sur 5"
+      ],
+      "image": "/images/products/rapala-jointed.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B006QCWQZS?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Jerkbait brochet 15 cm slow sinking",
+      "speechName": "ce gros leurre de quinze centimètres à descente lente",
+      "price": "17,33 €",
+      "pros": [
+        "Taille et poids faits pour les gros brochets",
+        "Descente lente qui laisse le temps au poisson d'attaquer, noté 4,8 sur 5"
+      ],
+      "image": "/images/products/jerkbait-brochet-15cm-slow-sinking.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DL7PRYG1?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Rapala Super Shad Rap",
+      "speechName": "ce gros poisson nageur flottant en balsa",
+      "price": "20,99 €",
+      "pros": [
+        "Corps large en balsa qui remonte à l'arrêt, redoutable sur les gros brochets",
+        "Une référence depuis des années chez les pêcheurs de brochet"
+      ],
+      "image": "/images/products/rapala-super-shad-rap.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B000B60A8K?tag=surfpdb-21",
+      "category": "leurres"
+    }
+  ],
+  "image": "/images/products/berkley-pulse-biggie-crankbait.jpg"
+}

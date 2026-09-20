@@ -1,0 +1,70 @@
+{
+  "slug": "meilleurs-leurres-souples-carnassier",
+  "title": "Les 5 meilleurs leurres souples pour le brochet, le sandre et la perche",
+  "excerpt": "Du shad à l'unité à moins de 2 € au lot de leurres déjà montés sur têtes plombées, notre sélection de leurres souples pour pêcher les carnassiers du bord.",
+  "hookSubject": "les meilleurs leurres souples pour le carnassier",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Fox Rage Slick Shad",
+      "speechName": "ce shad à l'unité à moins de deux euros",
+      "price": "1,67 €",
+      "pros": [
+        "Le moins cher du comparatif, idéal pour essayer une couleur",
+        "Nage souple dès la récupération lente, noté 4,7 sur 5"
+      ],
+      "image": "/images/products/fox-rage-slick-shad.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B081ZVMGR6?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Fox Rage UV Slick Shad Mixed Colour Pack",
+      "speechName": "ce lot de shads aux couleurs réactives aux ultraviolets",
+      "price": "6,59 €",
+      "pros": [
+        "Plusieurs couleurs dans le même sachet, dont des teintes UV pour l'eau teintée",
+        "Note parfaite de 5 sur 5"
+      ],
+      "image": "/images/products/fox-rage-uv-slick-shad-pack.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B00B4RXXSO?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Savage Gear Craft Bleak",
+      "speechName": "ce lot de leurres imitant un petit poisson blanc",
+      "price": "7,99 €",
+      "pros": [
+        "Imitation fidèle d'un ablette, le menu préféré des carnassiers",
+        "Note de 5 sur 5"
+      ],
+      "image": "/images/products/savage-gear-craft-bleak.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CQRFMV26?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Fox Rage Sandre Pro Shad Mixed UV Colour Pack",
+      "speechName": "ce lot de shads pensés pour le sandre",
+      "price": "9,39 €",
+      "pros": [
+        "Corps fin et caudale souple, taillé pour le sandre en verticale",
+        "Couleurs UV pour les eaux troubles, noté 4,7 sur 5"
+      ],
+      "image": "/images/products/fox-rage-pro-shad-uv-pack.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BGRD3PS1?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Savage Gear Cannibal Shad Mix, lot de 4 montés",
+      "speechName": "ce lot de quatre leurres déjà montés sur leur tête plombée",
+      "price": "9,99 €",
+      "pros": [
+        "Déjà montés : on attache et on pêche",
+        "Un des leurres souples les plus vendus en France"
+      ],
+      "image": "/images/products/savage-gear-cannibal-shad-monte.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BK5X93G3?tag=surfpdb-21",
+      "category": "leurres"
+    }
+  ],
+  "image": "/images/products/fox-rage-slick-shad.jpg"
+}

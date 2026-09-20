@@ -1,0 +1,70 @@
+{
+  "slug": "meilleures-tresses-carnassier",
+  "title": "Les 5 meilleures tresses pour la pêche des carnassiers",
+  "excerpt": "De la tresse 8 brins à 18 € à la tresse japonaise multicolore, notre sélection de fils pour sentir la moindre touche et ferrer à longue distance.",
+  "hookSubject": "les meilleures tresses pour la pêche des carnassiers",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "SeaKnight W8 II, tresse 8 brins",
+      "speechName": "cette tresse huit brins à petit prix",
+      "price": "17,99 €",
+      "pros": [
+        "La moins chère de la sélection en 8 brins",
+        "Disponible en 150, 300 et 500 mètres"
+      ],
+      "image": "/images/products/seaknight-w8-ii-tresse.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0C1GCF6SZ?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "SeaKnight X9, tresse 9 brins",
+      "speechName": "cette tresse neuf brins très ronde",
+      "price": "19,99 €",
+      "pros": [
+        "Neuf brins, donc une tresse plus ronde qui file mieux dans les anneaux",
+        "Bon compromis prix et distance de lancer"
+      ],
+      "image": "/images/products/seaknight-x9-tresse.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D1XYXM7X?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Shimano Kairiki 8, 300 m",
+      "speechName": "cette tresse japonaise huit brins de trois cents mètres",
+      "price": "28,53 €",
+      "pros": [
+        "Tressage serré, très peu de bruit dans les anneaux",
+        "Grande bobine de 300 mètres, de quoi garnir deux moulinets"
+      ],
+      "image": "/images/products/shimano-kairiki-8.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07MX17GQC?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Daiwa J-Braid Expedition X8E, 300 m",
+      "speechName": "cette tresse huit brins multicolore de la gamme expédition",
+      "price": "30,71 €",
+      "pros": [
+        "Coloris qui change tous les dix mètres pour mesurer la distance",
+        "Résistance à l'abrasion renforcée"
+      ],
+      "image": "/images/products/daiwa-j-braid-expedition-x8e.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CTJZ6YHX?tag=surfpdb-21",
+      "category": "montages"
+    },
+    {
+      "name": "Daiwa J-Braid 8, 300 m multicolore",
+      "speechName": "cette tresse huit brins, une des plus vendues en France",
+      "price": "32,38 €",
+      "pros": [
+        "Une valeur sûre, des milliers d'avis clients",
+        "Marquage multicolore pratique pour repérer la distance"
+      ],
+      "image": "/images/products/daiwa-j-braid-8-multicolore.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B016AOBRG0?tag=surfpdb-21",
+      "category": "montages"
+    }
+  ],
+  "image": "/images/products/seaknight-w8-ii-tresse.jpg"
+}
