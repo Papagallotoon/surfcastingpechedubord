@@ -1,0 +1,85 @@
+{
+  "title": "Les 5 meilleures pinces et outils pour décrocher le poisson",
+  "slug": "meilleures-pinces-outils-peche",
+  "excerpt": "De la pince hémostatique à 7 € à la pince en aluminium traitée pour l'eau salée, notre sélection pour décrocher un hameçon proprement et relâcher le poisson en vie.",
+  "image": "/images/products/mjw-pince-hemostatique.jpg",
+  "hookSubject": "les meilleures pinces et outils pour décrocher le poisson",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "MJW Pince Hémostatique en Acier Inoxydable",
+      "speechName": "cette pince hémostatique à sept euros",
+      "price": "6,99 €",
+      "pros": [
+        "Le petit outil le plus utile du sac de pêche",
+        "Idéale sur un hameçon avalé profondément"
+      ],
+      "cons": [
+        "Peu adaptée aux gros hameçons de mer"
+      ],
+      "image": "/images/products/mjw-pince-hemostatique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09F5T333P?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "J&D Pince de Pêche Multifonction",
+      "speechName": "cette pince multifonction avec coupe-fil",
+      "price": "11,89 €",
+      "pros": [
+        "Coupe la tresse et écrase les ardillons",
+        "Prix contenu pour un outil de chaque sortie"
+      ],
+      "cons": [
+        "Ressort de rappel un peu léger"
+      ],
+      "image": "/images/products/jd-pince-peche-multifonction.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B071FZVVJG?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "SAMSFX Pince de Pêche Aluminium avec Cordon",
+      "speechName": "cette pince en aluminium livrée avec son cordon",
+      "price": "20,75 €",
+      "pros": [
+        "Cordon enroulé, la pince ne tombe jamais à l'eau",
+        "Aluminium, donc pas de rouille en bord de mer"
+      ],
+      "cons": [
+        "Mors fins, à ménager sur les grosses agrafes"
+      ],
+      "image": "/images/products/samsfx-pince-aluminium-cordon.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B081N7DZ5Y?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Booms Fishing R1 Extracteur d'Hameçon",
+      "speechName": "cet extracteur d'hameçon à manche long",
+      "price": "26,15 €",
+      "pros": [
+        "Manche long, pour décrocher sans mettre la main dans la gueule",
+        "Très utile sur les poissons à dents"
+      ],
+      "cons": [
+        "Outil spécialisé, il ne remplace pas une pince"
+      ],
+      "image": "/images/products/booms-fishing-r1-extracteur.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01A140D56?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Booms Fishing X1 Pince Aluminium Eau Salée",
+      "speechName": "cette pince en aluminium traitée pour l'eau salée",
+      "price": "30,58 €",
+      "pros": [
+        "Traitée contre la corrosion, pensée pour le bord de mer",
+        "Livrée avec étui et cordon"
+      ],
+      "cons": [
+        "La plus chère de la sélection"
+      ],
+      "image": "/images/products/booms-fishing-x1-pince.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B012FGME00?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

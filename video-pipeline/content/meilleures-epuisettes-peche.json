@@ -1,0 +1,85 @@
+{
+  "title": "Les 5 meilleures épuisettes pour la pêche du bord",
+  "slug": "meilleures-epuisettes-peche",
+  "excerpt": "De l'épuisette télescopique à 21 € au modèle caoutchouté qui préserve le poisson, notre sélection pour ne plus décrocher une prise au dernier mètre.",
+  "image": "/images/products/restcloud-epuisette-telescopique.jpg",
+  "hookSubject": "les meilleures épuisettes pour la pêche du bord",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "RESTCLOUD Épuisette Télescopique",
+      "speechName": "cette épuisette télescopique compacte",
+      "price": "20,77 €",
+      "pros": [
+        "Manche télescopique, elle tient dans le sac",
+        "Bon rapport qualité-prix pour une première épuisette"
+      ],
+      "cons": [
+        "Manche souple sur les gros poissons"
+      ],
+      "image": "/images/products/restcloud-epuisette-telescopique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CXXNFW52?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "PLUSINNO Épuisette à Filet Caoutchouté",
+      "speechName": "cette petite épuisette légère à filet caoutchouté",
+      "price": "20,99 €",
+      "pros": [
+        "Filet caoutchouté qui n'abîme pas le poisson",
+        "Légère, elle s'accroche au gilet"
+      ],
+      "cons": [
+        "Petite tête, réservée aux poissons de taille modeste"
+      ],
+      "image": "/images/products/plusinno-epuisette-mouche.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07DHR154C?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "PLUSINNO Épuisette Pliable Télescopique",
+      "speechName": "cette épuisette pliable au manche télescopique",
+      "price": "26,03 €",
+      "pros": [
+        "Tête pliable, très facile à transporter",
+        "Une des mieux notées du comparatif"
+      ],
+      "cons": [
+        "Mécanisme de pliage à rincer après la mer"
+      ],
+      "image": "/images/products/plusinno-epuisette-pliable.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B071XMJJ93?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "NGT Épuisette Carpe 106 cm",
+      "speechName": "cette grande épuisette pensée pour la carpe",
+      "price": "48,90 €",
+      "pros": [
+        "Très grande tête, indispensable sur les gros poissons",
+        "Filet démontable rapidement"
+      ],
+      "cons": [
+        "Encombrante à transporter"
+      ],
+      "image": "/images/products/ngt-epuisette-carpe-106.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B018D6HW8U?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Zite Épuisette Entièrement Caoutchoutée",
+      "speechName": "cette épuisette entièrement caoutchoutée",
+      "price": "57,83 €",
+      "pros": [
+        "Le filet caoutchouté n'accroche ni les hameçons ni les nageoires",
+        "Le modèle le plus abouti de la sélection"
+      ],
+      "cons": [
+        "Le plus cher du comparatif"
+      ],
+      "image": "/images/products/zite-epuisette-caoutchoutee.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07H2KX422?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}

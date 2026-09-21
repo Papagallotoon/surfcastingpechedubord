@@ -1,0 +1,85 @@
+{
+  "title": "Les 5 meilleurs leurres pour la truite en rivière",
+  "slug": "meilleures-cuilleres-leurres-truite",
+  "excerpt": "De la cuillère tournante au poisson nageur en balsa, notre sélection de leurres pour prospecter une rivière et déclencher l'attaque d'une truite.",
+  "image": "/images/products/leurre-polyvalent-eau-douce-mer.jpg",
+  "hookSubject": "les meilleurs leurres pour la truite en rivière",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Leurre de Pêche Polyvalent Eau Douce et Mer",
+      "speechName": "ce leurre polyvalent qui passe partout",
+      "price": "12,93 €",
+      "pros": [
+        "Le moins cher de la sélection",
+        "Utilisable en rivière comme en bord de mer"
+      ],
+      "cons": [
+        "Finition basique par rapport aux grandes marques"
+      ],
+      "image": "/images/products/leurre-polyvalent-eau-douce-mer.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07TRXFY51?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "Rapala Original Floater",
+      "speechName": "ce poisson nageur flottant en balsa, un grand classique",
+      "price": "14,31 €",
+      "pros": [
+        "Un classique depuis des décennies",
+        "Corps en balsa, nage naturelle même en courant lent"
+      ],
+      "cons": [
+        "Léger, difficile à lancer par grand vent"
+      ],
+      "image": "/images/products/rapala-original-floater.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B001NXCC4K?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "TRUSCEND Lot de Cuillères Tournantes",
+      "speechName": "ce lot de cuillères tournantes",
+      "price": "19,99 €",
+      "pros": [
+        "Plusieurs tailles et couleurs dans le lot",
+        "La cuillère tournante reste le leurre le plus simple pour débuter"
+      ],
+      "cons": [
+        "Hameçons d'origine à changer sur les plus gros poissons"
+      ],
+      "image": "/images/products/truscend-cuilleres-tournantes.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BJVC9WZZ?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "acme Kastmaster, Cuillère Ondulante",
+      "speechName": "cette cuillère ondulante compacte qui file très loin",
+      "price": "24,17 €",
+      "pros": [
+        "Très dense, elle se lance bien plus loin qu'un leurre classique",
+        "Une référence mondiale pour la truite et la perche"
+      ],
+      "cons": [
+        "Vendue à l'unité"
+      ],
+      "image": "/images/products/acme-kastmaster-cuillere.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B000EH6E90?tag=surfpdb-21",
+      "category": "leurres"
+    },
+    {
+      "name": "THKFISH Kit de Cuillères Truite, Brochet, Bar",
+      "speechName": "ce kit complet de cuillères avec sa boîte",
+      "price": "27,41 €",
+      "pros": [
+        "Kit complet livré dans sa boîte",
+        "De quoi couvrir toutes les profondeurs et toutes les couleurs d'eau"
+      ],
+      "cons": [
+        "Qualité des hameçons variable selon les modèles"
+      ],
+      "image": "/images/products/thkfish-kit-cuilleres.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08M3RM982?tag=surfpdb-21",
+      "category": "leurres"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Les 5 meilleurs ensembles canne et moulinet pour voyager",
+  "slug": "meilleurs-combos-cannes-telescopiques-voyage",
+  "excerpt": "Du combo compact à 30 € à l'ensemble de voyage en plusieurs brins, notre sélection pour emmener une canne partout sans encombrer le coffre.",
+  "image": "/images/products/zebco-dock-demon-combo.jpg",
+  "hookSubject": "les meilleurs ensembles canne et moulinet pour voyager",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Zebco Dock Demon, Ensemble Canne et Moulinet",
+      "speechName": "ce petit ensemble canne et moulinet très compact",
+      "price": "29,58 €",
+      "pros": [
+        "Le moins cher de la sélection",
+        "Format très court, parfait pour le sac à dos ou les enfants"
+      ],
+      "cons": [
+        "Puissance limitée, à réserver aux petits poissons"
+      ],
+      "image": "/images/products/zebco-dock-demon-combo.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07XW3FWFF?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "BlueFire Kit Canne Télescopique Carbone",
+      "speechName": "ce kit complet avec canne télescopique en carbone",
+      "price": "48,85 €",
+      "pros": [
+        "Kit complet : canne, moulinet, leurres et sac",
+        "Canne télescopique légère à porter"
+      ],
+      "cons": [
+        "Accessoires fournis de qualité moyenne"
+      ],
+      "image": "/images/products/bluefire-kit-canne-telescopique.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07X9X7BBL?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Zebco 202, Ensemble Canne et Moulinet",
+      "speechName": "cet ensemble à moulinet fermé, increvable",
+      "price": "54,20 €",
+      "pros": [
+        "Moulinet fermé, aucune perruque, idéal pour débuter",
+        "Une référence vendue depuis des décennies"
+      ],
+      "cons": [
+        "Moulinet fermé moins précis pour la pêche aux leurres fins"
+      ],
+      "image": "/images/products/zebco-202-combo.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07L4JCR8Z?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "PLUSINNO Canne Télescopique et Moulinet",
+      "speechName": "cet ensemble télescopique livré avec son sac",
+      "price": "55,44 €",
+      "pros": [
+        "Sac de transport fourni",
+        "Plusieurs longueurs disponibles selon le poste"
+      ],
+      "cons": [
+        "Les brins télescopiques demandent un rinçage après la mer"
+      ],
+      "image": "/images/products/plusinno-canne-telescopique-combo.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01M7VD3IB?tag=surfpdb-21",
+      "category": "cannes"
+    },
+    {
+      "name": "Okuma Voyager, Kit de Voyage Eau Douce",
+      "speechName": "ce kit de voyage d'une marque spécialisée",
+      "price": "62,75 €",
+      "pros": [
+        "Canne en plusieurs brins dans un étui rigide, elle voyage en avion",
+        "Finition supérieure au reste de la sélection"
+      ],
+      "cons": [
+        "Le plus cher du comparatif"
+      ],
+      "image": "/images/products/okuma-voyager-kit-voyage.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B000MQTJW2?tag=surfpdb-21",
+      "category": "cannes"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Les 5 meilleures lampes frontales pour la pêche de nuit",
+  "slug": "meilleures-lampes-frontales-peche-nuit",
+  "excerpt": "De la frontale rechargeable à 12 € au modèle qui s'allume d'un geste de la main, notre sélection pour monter un bas de ligne dans le noir sans lâcher sa canne.",
+  "image": "/images/products/lepro-frontale-2000-lux.jpg",
+  "hookSubject": "les meilleures lampes frontales pour la pêche de nuit",
+  "format": "coup-de-coeur",
+  "products": [
+    {
+      "name": "Lepro Lampe Frontale Rechargeable 2000 Lux",
+      "speechName": "cette frontale rechargeable à moins de douze euros",
+      "price": "11,99 €",
+      "pros": [
+        "Le meilleur prix de la sélection",
+        "Rechargeable en USB, plus besoin de piles"
+      ],
+      "cons": [
+        "Autonomie limitée à pleine puissance"
+      ],
+      "image": "/images/products/lepro-frontale-2000-lux.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0F1F6LZG3?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Blukar Lampe Frontale Rechargeable 6 Modes",
+      "speechName": "cette frontale à six modes d'éclairage",
+      "price": "11,99 €",
+      "pros": [
+        "Mode rouge qui n'éblouit pas et ne fait pas fuir le poisson",
+        "Six modes pour adapter la lumière"
+      ],
+      "cons": [
+        "Bandeau un peu fin"
+      ],
+      "image": "/images/products/blukar-frontale-6-modes.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09G6M8JLK?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Gritin Lampe Frontale, Lot de 2",
+      "speechName": "ce lot de deux frontales",
+      "price": "11,99 €",
+      "pros": [
+        "Deux lampes pour le prix d'une",
+        "Très légères, on les oublie sur la tête"
+      ],
+      "cons": [
+        "Faisceau moins puissant que les modèles dédiés"
+      ],
+      "image": "/images/products/gritin-frontale-lot-2.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08CXZBGPB?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Lepro Lampe Frontale 1300 Lux Rechargeable",
+      "speechName": "cette frontale très lumineuse et résistante à la pluie",
+      "price": "16,99 €",
+      "pros": [
+        "Faisceau qui éclaire loin sur l'eau",
+        "Résiste aux projections et à la pluie"
+      ],
+      "cons": [
+        "Plus lourde que les modèles d'entrée de gamme"
+      ],
+      "image": "/images/products/lepro-frontale-1300-lux.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01DNDMSLY?tag=surfpdb-21",
+      "category": "accessoires"
+    },
+    {
+      "name": "Everbeam H6 Pro, Détection de Mouvement",
+      "speechName": "cette frontale qui s'allume d'un geste de la main",
+      "price": "26,99 €",
+      "pros": [
+        "Détection de mouvement, on l'allume sans poser sa canne",
+        "Grosse autonomie"
+      ],
+      "cons": [
+        "La détection se déclenche parfois par erreur"
+      ],
+      "image": "/images/products/everbeam-h6-pro-frontale.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07PF5VCMH?tag=surfpdb-21",
+      "category": "accessoires"
+    }
+  ]
+}
