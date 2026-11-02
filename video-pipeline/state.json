@@ -22,12 +22,13 @@
     "meilleures-cuilleres-leurres-truite",
     "meilleures-epuisettes-peche",
     "meilleures-glacieres-peche-du-bord",
-    "meilleures-lampes-frontales-peche-nuit"
+    "meilleures-lampes-frontales-peche-nuit",
+    "meilleures-lunettes-polarisantes-peche"
   ],
-  "lastRunAt": "2026-11-02T18:37:37.001Z",
+  "lastRunAt": "2026-11-02T23:14:28.596Z",
   "dailyCounts": {
     "date": "2026-11-02",
-    "comparatif": 2,
+    "comparatif": 3,
     "audible": 0,
     "solo": 0
   },
