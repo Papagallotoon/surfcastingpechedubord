@@ -33,14 +33,15 @@
     "meilleurs-leurres-souples-carnassier",
     "meilleurs-moulinets-spinning-carnassier",
     "meilleurs-sieges-chaises-peche-du-bord",
-    "solo-meilleures-boites-rangement-peche-du-bord-B09B2C45KN"
+    "solo-meilleures-boites-rangement-peche-du-bord-B09B2C45KN",
+    "solo-meilleures-boites-rangement-peche-du-bord-B00OY9JSWO"
   ],
-  "lastRunAt": "2026-11-06T13:29:47.751Z",
+  "lastRunAt": "2026-11-06T18:59:14.047Z",
   "dailyCounts": {
     "date": "2026-11-06",
     "comparatif": 0,
     "audible": 0,
-    "solo": 1
+    "solo": 2
   },
-  "soloIndex": 9
+  "soloIndex": 10
 }
