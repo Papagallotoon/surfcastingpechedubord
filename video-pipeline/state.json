@@ -35,14 +35,15 @@
     "meilleurs-sieges-chaises-peche-du-bord",
     "solo-meilleures-boites-rangement-peche-du-bord-B09B2C45KN",
     "solo-meilleures-boites-rangement-peche-du-bord-B00OY9JSWO",
-    "solo-meilleures-cannes-spinning-carnassier-B0846P14C5"
+    "solo-meilleures-cannes-spinning-carnassier-B0846P14C5",
+    "solo-meilleures-cannes-spinning-carnassier-B0BDMT1N57"
   ],
-  "lastRunAt": "2026-11-06T23:37:52.934Z",
+  "lastRunAt": "2026-11-07T11:39:02.097Z",
   "dailyCounts": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "comparatif": 0,
     "audible": 0,
-    "solo": 3
+    "solo": 1
   },
-  "soloIndex": 11
+  "soloIndex": 12
 }
