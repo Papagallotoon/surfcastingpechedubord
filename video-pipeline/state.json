@@ -38,14 +38,15 @@
     "solo-meilleures-cannes-spinning-carnassier-B0846P14C5",
     "solo-meilleures-cannes-spinning-carnassier-B0BDMT1N57",
     "solo-meilleures-cannes-spinning-carnassier-B004O6LQ1S",
-    "solo-meilleures-cannes-spinning-carnassier-B0CSDSG7M3"
+    "solo-meilleures-cannes-spinning-carnassier-B0CSDSG7M3",
+    "solo-meilleures-cannes-spinning-carnassier-B0D95NW6FF"
   ],
-  "lastRunAt": "2026-11-07T19:34:02.776Z",
+  "lastRunAt": "2026-11-08T11:51:02.961Z",
   "dailyCounts": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "comparatif": 0,
     "audible": 0,
-    "solo": 3
+    "solo": 1
   },
-  "soloIndex": 14
+  "soloIndex": 15
 }
