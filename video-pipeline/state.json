@@ -45,14 +45,15 @@
     "solo-meilleures-cannes-surfcasting-B09TTPSLZN",
     "solo-meilleures-cannes-surfcasting-B0FG79GMQP",
     "solo-meilleures-cannes-surfcasting-B0H4ZN9NTC",
-    "solo-meilleures-cuilleres-leurres-truite-B07TRXFY51"
+    "solo-meilleures-cuilleres-leurres-truite-B07TRXFY51",
+    "solo-meilleures-cuilleres-leurres-truite-B001NXCC4K"
   ],
-  "lastRunAt": "2026-11-10T01:50:57.466Z",
+  "lastRunAt": "2026-11-10T13:24:18.293Z",
   "dailyCounts": {
     "date": "2026-11-10",
     "comparatif": 0,
     "audible": 0,
-    "solo": 1
+    "solo": 2
   },
-  "soloIndex": 21
+  "soloIndex": 22
 }
