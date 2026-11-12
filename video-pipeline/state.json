@@ -52,14 +52,15 @@
     "solo-meilleures-cuilleres-leurres-truite-B08M3RM982",
     "solo-meilleures-epuisettes-peche-B0CXXNFW52",
     "solo-meilleures-epuisettes-peche-B07DHR154C",
-    "solo-meilleures-epuisettes-peche-B071XMJJ93"
+    "solo-meilleures-epuisettes-peche-B071XMJJ93",
+    "solo-meilleures-epuisettes-peche-B018D6HW8U"
   ],
-  "lastRunAt": "2026-11-12T13:40:35.953Z",
+  "lastRunAt": "2026-11-12T19:36:55.620Z",
   "dailyCounts": {
     "date": "2026-11-12",
     "comparatif": 0,
     "audible": 0,
-    "solo": 2
+    "solo": 3
   },
-  "soloIndex": 28
+  "soloIndex": 29
 }
