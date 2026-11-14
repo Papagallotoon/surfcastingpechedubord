@@ -59,14 +59,15 @@
     "solo-meilleures-glacieres-peche-du-bord-B0G6M92134",
     "solo-meilleures-glacieres-peche-du-bord-B01AJE3QPC",
     "solo-meilleures-glacieres-peche-du-bord-B094G49NNV",
-    "solo-meilleures-glacieres-peche-du-bord-B09MKPWQ31"
+    "solo-meilleures-glacieres-peche-du-bord-B09MKPWQ31",
+    "solo-meilleures-lampes-frontales-peche-nuit-B0F1F6LZG3"
   ],
-  "lastRunAt": "2026-11-14T15:14:10.147Z",
+  "lastRunAt": "2026-11-14T20:02:58.370Z",
   "dailyCounts": {
     "date": "2026-11-14",
     "comparatif": 0,
     "audible": 0,
-    "solo": 2
+    "solo": 3
   },
-  "soloIndex": 35
+  "soloIndex": 36
 }
