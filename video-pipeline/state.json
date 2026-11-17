@@ -67,14 +67,15 @@
     "solo-meilleures-lampes-frontales-peche-nuit-B07PF5VCMH",
     "solo-meilleures-lunettes-polarisantes-peche-B0BN3WNDKV",
     "solo-meilleures-lunettes-polarisantes-peche-B08MNTZM7M",
-    "solo-meilleures-lunettes-polarisantes-peche-B0CRL4Z58F"
+    "solo-meilleures-lunettes-polarisantes-peche-B0CRL4Z58F",
+    "solo-meilleures-lunettes-polarisantes-peche-B0B4FV8R8N"
   ],
-  "lastRunAt": "2026-11-17T14:16:25.188Z",
+  "lastRunAt": "2026-11-17T17:43:50.338Z",
   "dailyCounts": {
     "date": "2026-11-17",
     "comparatif": 0,
     "audible": 0,
-    "solo": 1
+    "solo": 2
   },
-  "soloIndex": 43
+  "soloIndex": 44
 }
