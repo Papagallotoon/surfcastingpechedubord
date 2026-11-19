@@ -72,14 +72,15 @@
     "solo-meilleures-lunettes-polarisantes-peche-B07PW3NYXG",
     "solo-meilleures-pinces-outils-peche-B09F5T333P",
     "solo-meilleures-pinces-outils-peche-B071FZVVJG",
-    "solo-meilleures-pinces-outils-peche-B081N7DZ5Y"
+    "solo-meilleures-pinces-outils-peche-B081N7DZ5Y",
+    "solo-meilleures-pinces-outils-peche-B01A140D56"
   ],
-  "lastRunAt": "2026-11-18T22:41:04.414Z",
+  "lastRunAt": "2026-11-19T14:17:09.351Z",
   "dailyCounts": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "comparatif": 0,
     "audible": 0,
-    "solo": 3
+    "solo": 1
   },
-  "soloIndex": 48
+  "soloIndex": 49
 }
