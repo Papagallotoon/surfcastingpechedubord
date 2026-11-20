@@ -75,14 +75,15 @@
     "solo-meilleures-pinces-outils-peche-B081N7DZ5Y",
     "solo-meilleures-pinces-outils-peche-B01A140D56",
     "solo-meilleures-pinces-outils-peche-B012FGME00",
-    "solo-meilleures-tresses-carnassier-B0C1GCF6SZ"
+    "solo-meilleures-tresses-carnassier-B0C1GCF6SZ",
+    "solo-meilleures-tresses-carnassier-B0D1XYXM7X"
   ],
-  "lastRunAt": "2026-11-19T22:47:23.723Z",
+  "lastRunAt": "2026-11-20T13:57:29.251Z",
   "dailyCounts": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "comparatif": 0,
     "audible": 0,
-    "solo": 3
+    "solo": 1
   },
-  "soloIndex": 51
+  "soloIndex": 52
 }
