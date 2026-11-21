@@ -80,14 +80,15 @@
     "solo-meilleures-tresses-carnassier-B07MX17GQC",
     "solo-meilleures-tresses-carnassier-B0CTJZ6YHX",
     "solo-meilleures-tresses-carnassier-B016AOBRG0",
-    "solo-meilleures-tresses-fils-surfcasting-B076SCB7C7"
+    "solo-meilleures-tresses-fils-surfcasting-B076SCB7C7",
+    "solo-meilleures-tresses-fils-surfcasting-B0CWDPMSPN"
   ],
-  "lastRunAt": "2026-11-21T18:46:19.562Z",
+  "lastRunAt": "2026-11-21T23:41:33.408Z",
   "dailyCounts": {
     "date": "2026-11-21",
     "comparatif": 0,
     "audible": 0,
-    "solo": 2
+    "solo": 3
   },
-  "soloIndex": 56
+  "soloIndex": 57
 }
