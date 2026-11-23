@@ -86,14 +86,15 @@
     "solo-meilleures-tresses-fils-surfcasting-B09MB4ZVYP",
     "solo-meilleures-tresses-fils-surfcasting-B016AOBSYQ",
     "solo-meilleurs-combos-cannes-telescopiques-voyage-B07XW3FWFF",
-    "solo-meilleurs-combos-cannes-telescopiques-voyage-B07X9X7BBL"
+    "solo-meilleurs-combos-cannes-telescopiques-voyage-B07X9X7BBL",
+    "solo-meilleurs-combos-cannes-telescopiques-voyage-B07L4JCR8Z"
   ],
-  "lastRunAt": "2026-11-23T20:25:08.882Z",
+  "lastRunAt": "2026-11-23T23:27:45.763Z",
   "dailyCounts": {
     "date": "2026-11-23",
     "comparatif": 0,
     "audible": 0,
-    "solo": 2
+    "solo": 3
   },
-  "soloIndex": 62
+  "soloIndex": 63
 }
