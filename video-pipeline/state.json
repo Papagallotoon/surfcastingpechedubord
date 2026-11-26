@@ -96,14 +96,15 @@
     "solo-meilleurs-detecteurs-touche-surfcasting-B0CQPD33ZN",
     "solo-meilleurs-detecteurs-touche-surfcasting-B0CZLJTF6H",
     "solo-meilleurs-gilets-securite-peche-du-bord-B015O2TP86",
-    "solo-meilleurs-gilets-securite-peche-du-bord-B0942XKXHC"
+    "solo-meilleurs-gilets-securite-peche-du-bord-B0942XKXHC",
+    "solo-meilleurs-gilets-securite-peche-du-bord-B0DKTL3796"
   ],
-  "lastRunAt": "2026-11-26T18:32:05.215Z",
+  "lastRunAt": "2026-11-26T23:58:57.744Z",
   "dailyCounts": {
     "date": "2026-11-26",
     "comparatif": 0,
     "audible": 0,
-    "solo": 2
+    "solo": 3
   },
-  "soloIndex": 72
+  "soloIndex": 73
 }
